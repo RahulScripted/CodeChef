@@ -1,0 +1,24 @@
+What will be the output of the following code?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    int x = 5, y = 5;
+    if (x > y) cout << "x is greater";
+    else if (y >= x) cout << "y is greater";
+    else cout << "Both are equal";
+}
+
+
+Select one of the following options:
+
+- x is greater
+- y is greater
+- Both are equal
+- Throws an error
+
+
+Correct Answer: y is greater
+
+Explanation: The code compares x and y and prints the second message since the comparison result is true and does not execute the next else condition

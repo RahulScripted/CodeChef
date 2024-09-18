@@ -1,0 +1,15 @@
+What does the following code represent? if (a == b || c != d)
+
+
+Select one of the following options:
+
+- Check if both a is equal to b and c is not equal to d
+- Check if either a is equal to b or c is not equal to d
+- Both A and B
+- None of the above
+
+
+
+Correct Answer: Check if either a is equal to b or c is not equal to d
+
+Explanation: The '||' operator allows the block of code to execute if either of the conditions is true

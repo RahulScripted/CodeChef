@@ -1,0 +1,39 @@
+Debug the code in the IDE. The code is supposed to do the following:
+
+1.  Input three space-separated integers on a single line.
+2.  If the middle integer is greater than the sum of the other two integers and is odd, print 1; otherwise, print 0.
+
+
+
+    <-------- Given Code ---------->
+
+#include <iostream>
+using namespace std;
+int main() {
+    int a, b, c;
+    cin >> a >> b >> c;
+    cout << ((b < a + c) && (b % 2 = 1)) << endl;
+    return 0;
+}
+
+
+
+    <-------- Identify The Error ---------->
+
+There is 4 error 
+    1. Missing if-else statement
+    2. Change "(b < a + c)" to "(b > (a + c)"
+    3. Change "(b % 2 = 1)" to "(b % 2 != 0)"
+    4. Missing cout statement to print 
+
+    <----------- Error Free Code ------------->
+
+#include <iostream>
+using namespace std;
+int main() {
+    int a, b, c;
+    cin >> a >> b >> c;
+    if((b > (a + c)) && (b % 2 != 0)) cout << 1 << endl;
+    else cout<<0<<endl;
+    return 0;
+}

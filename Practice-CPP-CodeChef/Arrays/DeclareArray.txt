@@ -1,0 +1,15 @@
+What is the correct way to declare an array?
+
+
+Select one of the following options:
+
+- int myArray[5];
+- array<int> myArray(5);
+- int myArray = [5];
+- array<int> myArray = 5;
+
+
+
+Correct Answer: int myArray[5];
+
+Explanation: The correct syntax for declaring an array is "data_type array_name[array_size]"

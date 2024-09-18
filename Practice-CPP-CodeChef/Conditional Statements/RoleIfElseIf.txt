@@ -1,0 +1,14 @@
+What is the role of else if in an if-else ladder?
+
+
+Select one of the following options:
+
+- To check an additional condition if none of the previous conditions are true
+- To terminate the program.
+- To start a new block of code.
+- To define an alternative condition if the previous one is true
+
+
+Correct Answer: To check an additional condition if none of the previous conditions are true
+
+Explanation: The 'else if ' part in an if-else if-else ladder is used to check an additional condition if none of the previous conditions is true

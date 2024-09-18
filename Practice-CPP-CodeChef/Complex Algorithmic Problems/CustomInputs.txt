@@ -1,0 +1,15 @@
+Why is testing with custom inputs important in programming?
+
+
+Select one of the following options:
+
+- Generates private test files
+- Helps in debugging and finding exceptions
+- Speeds up code execution
+- Facilitates code submission
+
+
+
+Correct Answer: Helps in debugging and finding exceptions
+
+Explanation: Testing with custom inputs helps identify issues, debug, and find exceptions in the code

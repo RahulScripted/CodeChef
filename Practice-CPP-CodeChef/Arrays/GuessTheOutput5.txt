@@ -1,0 +1,24 @@
+What is the output of the following code?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    int data[5] = {2, 4, 6, 8, 10};
+    cout << data[0] + data[3];
+}
+
+
+
+Select one of the following options:
+
+- 10
+- 12
+- 16
+- Compilation error
+
+
+
+Correct Answer: 10
+
+Explanation: The code calculates the sum of elements at index 0 and 3, which is 2 + 8 = 10

@@ -1,0 +1,29 @@
+Rectify the errors to make the program compile successfully.
+
+
+    <-------- Given Code ---------->
+
+#include <iostream>
+using namespace std;
+int main() {
+    int a = 4 + 8
+    cout >> A;
+    return 0;
+}
+
+
+    <-------- Identify The Error ---------->
+
+cout << a;
+
+There is 3 error 1st is there is a semicolon missed in line "int a = 4 + 8" & 2nd is 'A' to 'a' & 3rd is change ">>" to "<<"
+
+    <----------- Error Free Code ------------->
+
+#include <iostream>
+using namespace std;
+int main() {
+    int a = 4 + 8;
+    cout << a;
+    return 0;
+}

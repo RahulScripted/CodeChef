@@ -1,0 +1,15 @@
+What is the significance of the term Time Limit Exceeded (TLE) in programming competitions?
+
+
+Select one of the following options:
+
+- It indicates a logical error in the code
+- It suggests an issue with the program's execution time
+- It points to a compilation error
+- It signifies a problem with variable naming conventions
+
+
+
+Correct Answer: It suggests an issue with the program's execution time
+
+Explanation: Time Limit Exceeded (TLE) usually indicates that the time taken by the code to pass all the test cases has exceeded the permissible limit

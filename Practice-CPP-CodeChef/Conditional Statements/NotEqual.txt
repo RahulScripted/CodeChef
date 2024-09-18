@@ -1,0 +1,16 @@
+How do you check if a number is not equal to 5?
+
+
+Select the correct option(s):
+
+- if (num == 5)
+- if (!(num == 5))
+- if (!(num != 5))
+- if (num != 5)
+
+
+Correct Answer(s):
+if (!(num == 5))
+if (num != 5)
+
+Explanation: If num is not equal to 5 "num == 5" equate to false and negation of false "!(false)" becomes true. If(num != 5) is also another and more common way to check this.

@@ -1,0 +1,19 @@
+What type of error is caused by the following code?
+
+
+int arr[4] = {3,5,7,9}; 
+cout << arr[1] / 0;
+
+
+Select one of the following options:
+
+- Compilation error
+- Runtime error
+- Logical error
+- Time limit exceeded
+
+
+
+Correct Answer: Runtime error
+
+Explanation: Dividing a number by 0 results in a runtime error.

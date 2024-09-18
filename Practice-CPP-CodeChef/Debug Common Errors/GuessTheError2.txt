@@ -1,0 +1,24 @@
+What type of error is caused by the below code?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    int b = 5;
+    cout<< a;
+}
+
+
+
+Select one of the following options:
+
+- Compilation error
+- Runtime error
+- Logical error
+- Syntax error
+
+
+
+Correct Answer: Compilation error
+
+Explanation: Using an undefined variable results in a compilation error

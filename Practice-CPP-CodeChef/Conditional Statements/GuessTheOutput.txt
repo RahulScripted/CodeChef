@@ -1,0 +1,26 @@
+What does the following code do?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    int marks = 75;
+    char grade;
+    if (marks >= 60) grade = 'A';
+    else grade = 'B';
+}
+
+
+Select the correct option(s):
+
+- Assigns 'A' to grade if marks are greater than or equal to 60
+- Assigns 'B' to grade if marks are greater than or equal to 60
+- Assigns 'A' to grade if marks are less than 60
+- Assigns 'B' to grade if marks are less than 60
+
+
+Correct Answer(s):
+1. Assigns 'A' to grade if marks are greater than or equal to 60
+2. Assigns 'B' to grade if marks are less than 60
+
+Explanation: The code assigns the grade 'A' if the marks are greater than or equal to 60, otherwise 'B' is assigned.

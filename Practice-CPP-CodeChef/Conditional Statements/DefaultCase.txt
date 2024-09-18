@@ -1,0 +1,14 @@
+What does the default case in a switch statement represent?
+
+
+Select one of the following options:
+
+- It is always executed
+- It is executed when no other case matches
+- It signifies an error
+- None of the above
+
+
+Correct Answer: It is executed when no other case matches
+
+Explanation: The default case is executed when none of the other cases match

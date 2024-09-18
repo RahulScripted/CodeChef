@@ -1,0 +1,14 @@
+How is the scope of code defined?
+
+
+Select one of the following options:
+
+- Spaces
+- Tabs
+- Curly braces
+- Parentheses
+
+
+Correct Answer: Curly braces
+
+Explanation: We rely on curly braces ('{' and '}') to define the scope of the code

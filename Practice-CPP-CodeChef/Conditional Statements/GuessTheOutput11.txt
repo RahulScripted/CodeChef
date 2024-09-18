@@ -1,0 +1,35 @@
+What does the following code snippet do?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    int day = 3;
+    switch(day) {
+        case 1:
+        cout << "Sunday";
+        break;
+        case 2:
+        cout << "Monday";
+        break;
+        case 3:
+        cout << "Tuesday";
+        break;
+        default:
+        cout << "Other day";
+    }
+}
+
+
+
+Select one of the following options:
+
+- Prints "Sunday"
+- Prints "Monday"
+- Prints "Tuesday"
+- Prints "Other day"
+
+
+Correct Answer: Prints "Tuesday"
+
+Explanation: The switch statement compares the value of the day with the cases and executes the corresponding block

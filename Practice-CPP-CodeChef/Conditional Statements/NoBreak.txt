@@ -1,0 +1,14 @@
+What happens if there is no break statement in a case of a switch statement?
+
+
+Select one of the following options:
+
+- It results in a syntax error
+- It moves to the next case automatically
+- It exits the switch block
+- It continues to execute the code in the following cases
+
+
+Correct Answer: It continues to execute the code in the following cases
+
+Explanation: Without a break statement, the control will flow to the next case and its code will be executed

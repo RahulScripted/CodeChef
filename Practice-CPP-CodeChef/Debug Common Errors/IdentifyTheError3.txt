@@ -1,0 +1,33 @@
+Rectify the errors in the program to correctly print the last character of the string.
+
+
+    <-------- Given Code ---------->
+
+#include <iostream>
+using namespace std;
+int main() {
+    int n;
+    n = 8;
+    string s = "CodeChef";
+    cout << s[n] << endl;
+    return 0;
+}
+
+
+    <-------- Identify The Error ---------->
+
+cout << s[n- 1] << endl;
+
+change n - 1 to n 
+
+    <----------- Error Free Code ------------->
+
+#include <iostream>
+using namespace std;
+int main() {
+    int n;
+    n = 8;
+    string s = "CodeChef";
+    cout << s[n- 1] << endl;
+    return 0;
+}

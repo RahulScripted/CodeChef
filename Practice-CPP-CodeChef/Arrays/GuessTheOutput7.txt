@@ -1,0 +1,24 @@
+What does the following code snippet do?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    int numbers[5] = {2, 4, 6, 8, 10};
+    numbers[1] = numbers[1] * 2;
+    cout << numbers[1];
+}
+
+
+Select one of the following options:
+
+- Prints 8
+- Prints 2
+- Prints 16
+- Prints 4
+
+
+
+Correct Answer: Prints 8
+
+Explanation: The code multiplies the value at index 1 by 2 and then prints the updated value, which is 4 * 2 = 8

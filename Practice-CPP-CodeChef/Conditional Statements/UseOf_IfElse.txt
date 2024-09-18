@@ -1,0 +1,14 @@
+What is the purpose of the 'if-else if-else' ladder?
+
+
+Select one of the following options:
+
+- For iteration
+- For exception handling
+- Check multiple conditions sequentially
+- Declare variables
+
+
+Correct Answer: Check multiple conditions sequentially
+
+Explanation: It allows checking multiple conditions sequentially and performing the operations  associated with the condition that matches

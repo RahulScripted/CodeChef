@@ -1,0 +1,15 @@
+What is the correct way to check if a number is between 10 (non-inclusive) and 20 (inclusive)?
+
+
+Select one of the following options:
+
+- if (num > 10 && num <= 20)
+- if (num > 10 || num <= 20) 
+- if (num < 10 && num > 20) 
+- if (num <= 10 || num >= 20)
+
+
+
+Correct Answer: if (num > 10 && num <= 20)
+
+Explanation: The condition checks if 'num' is greater than 10 and less than or equal to 20

@@ -1,0 +1,23 @@
+What does the following code snippet do?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    double prices[4] = {9.99, 19.99, 29.99, 39.99};
+    cout << prices[4];
+}
+
+
+Select one of the following options:
+
+- Prints 9.99
+- Prints 39.99
+- Compilation error
+- Prints a random value
+
+
+
+Correct Answer: Prints a random value
+
+Explanation: The code attempts to access an element at index 4, which is out of bounds, leading to unpredictable behaviour.

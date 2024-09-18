@@ -1,0 +1,77 @@
+Debug the code in the IDE to solve the problem. The code is supposed to do the following:
+
+1.  Take a positive integer as input.
+2.  If its between 1 - 7, prints the corresponding day of the week.
+3.  Else print, Invalid input. Check the sample test case.
+
+
+
+    <-------- Given Code ---------->
+
+#include <iostream>
+using namespace std;
+int main() {
+    int day;
+    cin >> day;
+    switch (day) {
+        case 1:
+            cout << "Monday" << endl;
+        case 2:
+            cout << "Tuesday" << endl;
+        case 3:
+            cout << "Wednesday" << endl;
+        case 4:
+            cout << "Thursday" << endl;
+        case 5:
+            cout << "Friday" << endl;
+        case 6:
+            cout << "Saturday" << endl;
+        case 7:
+            cout << "Sunday" << endl;
+        default:
+            cout << "Invalid input" << endl;
+    }
+    return 0;
+}
+
+
+
+    <-------- Identify The Error ---------->
+
+There is no break statement in every case
+
+    <----------- Error Free Code ------------->
+
+#include <iostream>
+using namespace std;
+int main() {
+    int day;
+    cin >> day;
+    switch (day) {
+        case 1:
+            cout << "Monday" << endl;
+            break;
+        case 2:
+            cout << "Tuesday" << endl;
+            break;
+        case 3:
+            cout << "Wednesday" << endl;
+            break;
+        case 4:
+            cout << "Thursday" << endl;
+            break;
+        case 5:
+            cout << "Friday" << endl;
+            break;
+        case 6:
+            cout << "Saturday" << endl;
+            break;
+        case 7:
+            cout << "Sunday" << endl;
+            break;
+        default:
+            cout << "Invalid input" << endl;
+            break;
+    }
+    return 0;
+}

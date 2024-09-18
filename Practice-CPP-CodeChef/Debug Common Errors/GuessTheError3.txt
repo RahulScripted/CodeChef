@@ -1,0 +1,15 @@
+What type of error is caused by using mismatched parentheses?
+
+
+Select one of the following options:
+
+- Runtime error
+- Syntax error
+- Logical error
+- Time limit exceeded
+
+
+
+Correct Answer: Syntax error
+
+Explanation: Mismatched parentheses result in a syntax error

@@ -1,0 +1,24 @@
+The following code will result in which type of error?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    int a = 9;
+    int b = 0;
+    int c =  a / b;
+    cout << c << "\n";
+}
+
+
+Select one of the following options:
+
+- Logical error
+- Syntax error
+- Compilation error
+- Runtime error
+
+
+Correct Answer: Runtime error
+
+Explanation: This code will result in a runtime error due to division by zero

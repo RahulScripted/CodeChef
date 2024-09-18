@@ -1,0 +1,31 @@
+Rectify the errors in the program to get the desired output.
+
+
+    <-------- Given Code ---------->
+
+#include <iostream>
+using namespace std;
+int main() {
+    int choice;
+    cin >> choice;
+    switch(choice) {
+        case 1:
+            cout << "Option 1 selected";
+            break;
+        case 2:
+            cout << "Option 2 selected";
+            break;
+        case 3:
+            cout << "Option 3 selected";
+            break;
+        default:
+            cout << "Invalid choice";
+            break;
+    }
+    return 0;
+}
+
+
+    <-------- Identify The Error ---------->
+
+There is no error in the code

@@ -1,0 +1,15 @@
+What is the purpose of private test files in programming competitions?
+
+
+Select one of the following options:
+
+- Display code publicly
+- Allow custom inputs
+- Provide examples for users
+- Test code for logic and corner cases
+
+
+
+Correct Answer: Test code for logic and corner cases
+
+Explanation: Private test files check code for logic, corner cases, and scalability
