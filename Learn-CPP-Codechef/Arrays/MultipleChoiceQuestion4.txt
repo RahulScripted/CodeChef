@@ -1,0 +1,12 @@
+What is used to find the size of a int array named Scores?
+
+
+Select one of the following options.
+
+1.  cout << sizeof(Scores);
+2.  cout << sizeof(Scores) / sizeof(Scores[0]);
+3.  cout << sizeof(Scores) / 8;
+4.  cout << sizeof(Scores) / 2;
+
+
+Answer: cout << sizeof(Scores) / sizeof(Scores[0]);
