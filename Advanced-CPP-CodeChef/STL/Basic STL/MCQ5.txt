@@ -1,0 +1,9 @@
+Which algorithm assigns a specified value to all elements in a range?
+
+1.  iota()
+2.  copy()
+3.  fill()
+4.  fill_all()
+
+
+Answer: fill()

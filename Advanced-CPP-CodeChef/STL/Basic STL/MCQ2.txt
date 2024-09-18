@@ -1,0 +1,12 @@
+What do vectors represent?
+
+
+Select one of the following options.
+
+1.  Static Array
+2.  Non Contiguous Memory location
+3.  Dynamic Array
+
+
+
+Answer: Dynamic Array

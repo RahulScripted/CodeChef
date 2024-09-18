@@ -1,0 +1,10 @@
+Which of the following is NOT a valid way to iterate over a std::multiset?
+
+A) Using range-based for loop
+B) Using iterators
+C) Using pop_back()
+D) Using begin() and end() functions
+
+
+
+Answer: C) Using pop_back()

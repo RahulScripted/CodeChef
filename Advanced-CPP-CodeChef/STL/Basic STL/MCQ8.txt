@@ -1,0 +1,10 @@
+Which of these are valid syntax for tuple? Select the correct options.
+
+1.  std::tuple<int,int> foo (5,10);
+2.  std::tuple<int,string> foo (5,"hi");
+3.  std::tuple<int,int> foo (5,"hi");
+4.  std::tuple<int,string> foo (5, 10);
+
+
+Answer: std::tuple<int,int> foo (5,10);
+Answer:  std::tuple<int,string> foo (5,"hi");

@@ -1,0 +1,9 @@
+We know that a set supports all the operations that we need. But should we use a set or a multiset, or an unordered set?Select the correct answer.
+
+1.  Set
+2.  Multiset
+3.  Unordered set
+
+
+
+Answer: Multiset

@@ -1,0 +1,11 @@
+Which of these is a correct strategy to minimize the number of attacks?Select the correct answer.
+
+1.  Sort the soldiers in decreasing order of power and use them in this order.
+
+2.  Use the soldier who has highest power at each step.
+
+3.  Use the soldier who has lowest power at each step.
+
+
+
+Answer: 2.  Use the soldier who has highest power at each step.

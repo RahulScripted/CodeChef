@@ -1,0 +1,9 @@
+Which of the following is not a valid operation on a set in C++?
+
+A. Insertion of elements
+B. Deletion of elements
+C. Accessing elements by index
+D. Finding elements
+
+
+Answer: Accessing elements by index

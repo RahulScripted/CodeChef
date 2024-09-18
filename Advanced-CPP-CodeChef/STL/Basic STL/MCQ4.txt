@@ -1,0 +1,16 @@
+Correct way to declare a vector in C++ for integers?
+
+
+elect one of the following options.
+
+1.  std::vector(int) v;
+
+2.  std::vector v(int)
+
+3.  std::vector<int> v;
+
+4.  std::vector v;
+
+
+
+Answer: std::vector<int> v;

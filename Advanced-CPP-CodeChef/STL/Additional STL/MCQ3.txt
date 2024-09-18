@@ -1,0 +1,18 @@
+Consider this code snippet:
+
+```cpp
+
+multiset <int> s1{1, 2, 3}, s2{1, 2, 2, 3};
+if (s1 == s2) cout << “Yes” << endl;
+else cout << “No” << endl;
+
+```
+
+What will the output be? Select the correct option.
+
+1.  Yes
+2.  No
+
+
+
+Answer: Yes

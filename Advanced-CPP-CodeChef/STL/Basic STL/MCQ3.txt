@@ -1,0 +1,16 @@
+Which of these is the valid syntax for iterating over all the elements in a vector V of ints from beginning to end?
+
+
+Select the correct options.
+
+1.  for (vector<int>::iterator it = begin(V); it != end(V); ++it)
+
+2.  for (vector<int>::iterator it = V.begin; it != V.end; ++it)
+
+3.  for (vector<int>::iterator it = V.begin(); it == V.end(); ++it)
+
+4.  for (vector<int>::iterator it = V.begin(); it != V.end(); ++it)
+
+
+
+Answer: for (vector<int>::iterator it = V.begin(); it != V.end(); ++it)

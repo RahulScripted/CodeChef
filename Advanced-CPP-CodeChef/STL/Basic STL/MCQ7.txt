@@ -1,0 +1,14 @@
+Suppose we have a vector of pairs of ints. That is, we have vector< pair<int,int> > V. Suppose the elements added to it are (2, 6), (5, 1), (9, 2), (2, 7), (1, 10). And we sort this vector by using sort(V.begin(), V.end()); What will be the order of the elements in the vector after we do this sort?
+
+
+Select one of the following options.
+
+1.  (2, 6), (5, 1), (9, 2), (2, 7), (1, 10)
+2.  (1, 10), (2, 7), (2, 6), (5, 1), (9, 2)
+3.  (5, 1), (9, 2), (2, 6), (2, 7), (1, 10)
+4.  (1, 10), (2, 6), (2, 7), (5, 1), (9, 2)
+
+
+
+
+Answer: (1, 10), (2, 6), (2, 7), (5, 1), (9, 2)

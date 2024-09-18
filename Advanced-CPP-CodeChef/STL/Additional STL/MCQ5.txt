@@ -1,0 +1,9 @@
+Which of these can be done with a set but not with an unordered set?Select the correct answer.
+
+1.  Finding the number of elements in the container.
+2.  Finding the largest element in the container.
+3.  Iterating over all the elements
+
+
+
+Answer: 2.  Finding the largest element in the container.

@@ -1,0 +1,9 @@
+Which of the following methods is used to clear all elements of a vector?
+
+A) clear()
+B) empty()
+C) erase()
+D) reset()
+
+
+Answer: A) clear()

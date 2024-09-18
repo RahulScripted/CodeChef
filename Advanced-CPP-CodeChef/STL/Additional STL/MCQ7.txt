@@ -1,0 +1,15 @@
+To implement the previous strategy, we need a data structure. Which of these operations should the data structure support?Select the correct answers.
+
+1.  Find the number of elements in the container.
+2.  Find the maximum element in the container.
+3.  Find the minimum element in the container.
+4.  Insert any element into the container.
+5.  Delete any element from the container.
+
+
+
+Answer: 
+
+2.  Find the maximum element in the container.
+4.  Insert any element into the container.
+5.  Delete any element from the container.
