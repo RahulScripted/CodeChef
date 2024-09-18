@@ -1,0 +1,17 @@
+What does the following code snippet do?
+
+int num = 5;
+int *ptr = &num;
+int **pptr = &ptr;
+
+
+Select the correct option.
+
+A. Creates a double pointer pointing to the value of num
+B. Creates a double pointer pointing to the address of num
+C. Creates a pointer to a pointer
+D. Creates a pointer to a variable
+
+
+
+Ans: C. Creates a pointer to a pointer

@@ -1,0 +1,14 @@
+How is a variable of type double declared and initialized?
+
+
+Select one of the following options:
+
+- double area = 3.9;
+- double = 3.9;
+- area double 3.9;
+- area = 3.9;
+
+
+Correct Answer: double area = 3.9;
+
+Explanation: A double variable is declared by specifying the data type (double), followed by the variable name (area), and the initialization value (3.9)

@@ -1,0 +1,45 @@
+What will be the output of the given code snippet:
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int arr[] = {1, 2, 3, 4, 5};
+    int *ptr = arr;
+    cout<<*(ptr++)<<endl;
+    cout<<*(ptr + 2)<<endl;
+    cout<<*(++ptr)<<endl;
+    cout<<*(ptr--);
+    return 0;
+}
+
+
+
+Select the correct answer
+A)   1
+     4
+     3
+     2
+
+B)   1
+     5
+     4
+     3
+
+C)   1
+     4
+     4
+     3
+
+D)   1
+     4
+     3
+     3
+
+
+Answer: 
+
+D)   1
+     4
+     3
+     3

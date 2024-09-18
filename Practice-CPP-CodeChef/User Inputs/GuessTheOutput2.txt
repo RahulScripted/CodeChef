@@ -1,0 +1,22 @@
+What happens if the user enters a non-integer value when the following code runs?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    int x;
+    cin >> x;
+}
+
+
+Select one of the following options:
+
+- The program crashes
+- Non-integer value is printed
+- The program executes without any error
+- Infinite loop
+
+
+Correct Answer: The program executes without any error
+
+Explanation: If the user enters a non-integer value, it is not accepted by the variable but the program does not crash and executes without any error

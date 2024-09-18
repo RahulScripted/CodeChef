@@ -1,0 +1,22 @@
+What is the output of the following code snippet?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    string s = "5";
+    cout << s + 5;
+}
+
+
+Select one of the following options:
+
+- 10
+- 55 
+- Throws an error
+- None of the above
+
+
+Correct Answer: Throws an error
+
+Explanation: + sign is used for both addition and concatenation, but we cannot mix the two

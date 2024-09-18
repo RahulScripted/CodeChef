@@ -1,0 +1,14 @@
+How do you declare a variable of type long storing the value 95420076541?
+
+
+Select one of the following options:
+
+- long num(95420076541);
+- long num = 95420076541L;
+- long num 95420076541;
+- None of the above
+
+
+Correct Answer: long num = 95420076541L;
+
+Explanation: The correct syntax to declare a long variable is (data type)long (variable name)num = (value)95420076541L;

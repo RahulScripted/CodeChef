@@ -1,0 +1,14 @@
+Identify the incorrect syntax from the below options.
+
+
+Select one of the following options:
+
+- bool b = false;
+- bool b = 1;
+- boolean b = 2;
+- None of the above.
+
+
+Correct Answer: boolean b = 2;
+
+Explanation: A Boolean variable can be declared using bool keyword, not boolean.

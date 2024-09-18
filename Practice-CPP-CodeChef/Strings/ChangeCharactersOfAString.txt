@@ -1,0 +1,14 @@
+How do you change the character at index 3 of the string variable "Cable" to 'r'?
+
+
+Select one of the following options:
+
+- charAt(3) = 'r';
+- Cable.charAt(2) = 'r';
+- Cable.charAt(3) = 'r';
+- Cable[3] = 'r';
+
+
+Correct Answer: Cable[3] = 'r';
+
+Explanation: To change the character at a specific index in a string, you use the index in square brackets and assign a new value

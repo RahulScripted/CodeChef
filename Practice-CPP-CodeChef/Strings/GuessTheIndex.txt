@@ -1,0 +1,14 @@
+In the string "Programming", what is the index of the second 'r' character?
+
+
+Select one of the following options:
+
+- 2
+- 5
+- 4
+- 1
+
+
+Correct Answer: 4
+
+Explanation: Indexing in C++ starts from 0. Therefore, the index of 'r' in "Programming" is 4

@@ -1,0 +1,20 @@
+What does the following code represent?
+
+#include <iostream>
+using namespace std;
+int main() {
+    char ch = 'B';
+}
+
+
+Select one of the following options:
+
+- Declaring a boolean variable
+- Storing the character 'B' in the variable ch
+- Initializing an integer variable
+- Printing the character 'B'
+
+
+Correct Answer: Storing the character 'B' in the variable ch
+
+Explanation: The code char ch = 'B'; initializes the variable ch with the character 'B'

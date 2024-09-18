@@ -1,0 +1,14 @@
+How do you declare a string variable named "hello" with the value "World"?
+
+
+Select one of the following options:
+
+- string hello = "World";
+- string hello("World")
+- hello = "World";
+- hello("World");
+
+
+Correct Answer: string hello = "World";
+
+Explanation: The correct syntax for declaring and initializing a string variable is to use the string keyword followed by the variable name("hello") and the value assigned("World") using the assignment operator =.

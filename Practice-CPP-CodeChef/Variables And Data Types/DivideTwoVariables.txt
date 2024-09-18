@@ -1,0 +1,18 @@
+Create a program to perform the following:
+- Declare two integer variables a and b.
+- Assign the value 20 to a and 6 to b.
+- print the result of a / b.
+
+
+#include <bits/stdc++.h>
+using namespace std;
+int main() {
+    int a,b;
+    a = 20;
+    b = 6;
+    cout<<(a / b);
+    return 0;
+}
+
+
+Output: 3

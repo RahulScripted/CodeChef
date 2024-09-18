@@ -1,0 +1,26 @@
+Identify and rectify the errors in the code provided to get the desired output.
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    string one = 'Coding';
+    string two = "Chaf";
+    two[3] = 'e';
+    cout << one + " " + two
+
+    return 0;
+}
+
+
+After rectify the errors ------------>
+
+#include <iostream>
+using namespace std;
+int main() {
+    string one = "Coding";
+    string two = "Chaf";
+    two[2] = 'e';
+    cout << one + " " + two;
+    return 0;
+}

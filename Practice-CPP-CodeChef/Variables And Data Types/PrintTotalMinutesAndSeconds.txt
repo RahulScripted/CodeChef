@@ -1,0 +1,15 @@
+Declare a variable hour and initialize it with the value 5 Then, calculate and print the total number of minutes and seconds present in this hour.
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    int hour = 5;
+    cout<<(60 * hour)<<endl;
+    cout<<(60 * 60 * hour)<<endl;
+}
+
+
+Output:
+            300
+            18000

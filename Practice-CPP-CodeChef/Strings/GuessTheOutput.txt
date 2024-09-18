@@ -1,0 +1,22 @@
+What is the output of the following code snippet?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    string phrase = "Coding, World!";
+    cout << phrase[6];
+}
+
+
+Select one of the following options:
+
+- g
+- W
+- ,
+- o
+
+
+Correct Answer: ,
+
+Explanation: The output will be the character at index 6(starting from 0) in the string, which is ','

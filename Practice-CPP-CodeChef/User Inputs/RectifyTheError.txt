@@ -1,0 +1,23 @@
+Rectify the error in the code.
+
+        <---------- Code Given -------------->
+        
+#include <iostream>
+using namespace std;
+int main() {
+    string name;
+    cout >> name;
+    cin << name[7] << endl;
+    return 0;
+}
+
+        <---------- Rectify Code -------------->
+
+#include <iostream>
+using namespace std;
+int main() {
+    string name;
+    cin >> name;
+    cout << name[7] << endl;
+    return 0;
+}

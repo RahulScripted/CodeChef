@@ -1,0 +1,23 @@
+What does the following code snippet do?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    int num;
+    cin >> num;
+    cout << num * 2;
+}
+
+
+Select one of the following options:
+
+- Takes user input and prints the double of the input
+- Prints the value of num without taking any user input
+- Multiplies num by 2 and takes the result as input
+- Raises num to the power of 2
+
+
+Correct Answer: Takes user input and prints the double of the input
+
+Explanation: The code snippet takes an integer input from the user and prints the double of that input

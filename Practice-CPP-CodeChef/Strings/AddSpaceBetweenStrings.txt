@@ -1,0 +1,14 @@
+How would you add a space between two strings "first" and "second"?
+
+
+Select one of the following options:
+
+- first " " second;
+- first + " " + second;
+- first - " " - second;
+- first.concat(" ").concat(second);
+
+
+Correct Answer: first + " " + second;
+
+Explanation: The "+" sign is used for concatenation, and we add a space between the two strings using " "

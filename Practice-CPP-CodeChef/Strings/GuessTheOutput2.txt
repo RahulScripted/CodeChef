@@ -1,0 +1,23 @@
+What does the following code snippet do?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    string word = "C++";
+    word[1] = 'P';
+    cout << word;
+}
+
+
+Select one of the following options:
+
+- Prints "CPP"
+- Prints "CP+"
+- Prints "C+P"
+- Throws an error
+
+
+Correct Answer: Prints "CP+"
+
+Explanation: It changes the character at index 1 from '+' to 'P'

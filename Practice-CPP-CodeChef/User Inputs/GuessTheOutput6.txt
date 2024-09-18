@@ -1,0 +1,23 @@
+What is the output of the following code?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    char first, second;
+    cin >> first >> second;
+    cout << first + second << endl;
+}
+
+
+Select one of the following options:
+
+- Prompts the user to enter two characters and prints their concatenation
+- Prompts the user to enter two characters and prints the ASCII value of their sum
+- Prompts the user to enter a string and prints its length
+- Results in a runtime error
+
+
+Correct Answer: Prompts the user to enter two characters and prints the ASCII value of their sum
+
+Explanation: The program prompts the user to enter two characters, reads them using cin, adds their ASCII values, and then prints the result

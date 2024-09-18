@@ -1,0 +1,14 @@
+Identify the correct syntax to use char data type.
+
+
+Select one of the following options:
+
+- character ch = 'c';
+- char ch = 'ch';
+- char ch 'ch'
+- None of the above
+
+
+Correct Answer: None of the above
+
+Explanation: The char data type is used to store one single character and is declared like char ch = 'b';

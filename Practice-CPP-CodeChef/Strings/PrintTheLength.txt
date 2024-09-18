@@ -1,0 +1,14 @@
+How do you print the length of the string variable called "str"?
+
+
+Select one of the following options:
+
+- lenght(str);
+- cout << str.length();
+- str.len();
+- print(str.length());
+
+
+Correct Answer: cout << str.length();
+
+Explanation: To print the length of a variable the syntax is "variable_name.length();", where length() is used to find the length of a string.

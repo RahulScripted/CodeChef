@@ -1,0 +1,24 @@
+What is the output of the following code?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    int x, y;
+    cin >> x;
+    cin >> y;
+    cout << x + y;
+}
+
+
+Select one of the following options:
+
+- Prints the sum of x and y
+- Prints the product of x and y
+- Prints the difference between x and y
+- Throws a compilation error
+
+
+Correct Answer: Prints the sum of x and y
+
+Explanation: The code reads two integers and prints their sum

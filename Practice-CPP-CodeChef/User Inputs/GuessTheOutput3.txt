@@ -1,0 +1,22 @@
+What does the following code do?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    string text;
+    cin >> text;
+}
+
+
+Select one of the following options:
+
+- Reads a line of text
+- Reads a single-character
+- Reads until a space or a next-line character is encountered
+- None of the above
+
+
+Correct Answer: Reads until a space or a next-line character is encountered
+
+Explanation: cin >> text reads a single word until a space or a next line character is encountered

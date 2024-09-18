@@ -1,0 +1,15 @@
+Identify the correct syntax for initializing a boolean variable.
+
+
+Select one of the following options:
+
+- boolean b = 0;
+- (bool) b = 0;
+- bool b = 1;
+- None of the above
+
+
+
+Correct Answer: bool b = 1;
+
+Explanation: The correct syntax to declare a boolean variable is (data type)bool (variable name)b = (value)1;
