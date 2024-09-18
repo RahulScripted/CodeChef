@@ -1,0 +1,11 @@
+How would you print the string stored in variable named num?
+
+Select one of the following options:
+
+- cout << num;
+- cout << "num";
+- cout << value(num);
+- cout << get(num);
+
+Correct Answer: cout << num;
+Explanation: To print the string variable named num, you directly use cout << "variable_name";

@@ -1,0 +1,19 @@
+What does the following code print?
+
+#include <iostream>
+using namespace std;
+int main() {
+    cout << "Code" << "Chef";
+}
+
+
+Select one of the following options:
+- CodeChef
+- Code Chef
+- Code
+  Chef
+- Code and Chef
+
+
+Correct Answer: CodeChef
+Explanation: cout << "Code" << "Chef";: This line outputs the string "Code" followed by the string "Chef" to the standard output. The << operator is used to concatenate these two strings, resulting in the output "CodeChef".

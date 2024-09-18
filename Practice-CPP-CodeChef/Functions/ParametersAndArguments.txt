@@ -1,0 +1,15 @@
+How are parameters and arguments related in a function?
+
+
+Select one of the following options:
+
+1.  Parameters are values passed to the function, and arguments are defined inside the function
+2.  Parameters are defined inside the function, and arguments are values passed to the function
+3.  Both terms refer to the same thing
+4.  Neither parameters nor arguments are used in the function
+
+
+
+Correct Answer: Parameters are defined inside the function, and arguments are values passed to the function
+
+Explanation: Parameters are part of the function definition, while Arguments are the values supplied when calling the function

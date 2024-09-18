@@ -1,0 +1,27 @@
+How many times will the following do/while loop execute?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    int x = 5;
+    do {
+        cout << x << " ";
+        x--;
+    } while (x > 0);
+}
+
+
+
+Select one of the following options:
+
+- 4
+- 5
+- 6
+- Infinite loop
+
+
+
+Correct Answer: 5
+
+Explanation: The do/while loop will execute at least once, as the condition is checked after the first iteration. It will repeat as long as x is greater than 0

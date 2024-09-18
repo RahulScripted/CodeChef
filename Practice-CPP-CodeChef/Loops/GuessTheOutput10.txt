@@ -1,0 +1,30 @@
+What does the following code do?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    while (true) {
+        int num;
+        cin >> num;
+        if (num == 0) {
+            break;
+        }
+        cout << num * 2 << " ";
+    }
+}
+
+
+
+Select one of the following options:
+
+- A) Continuously prints double of the entered number until 0 is entered
+- B) Exits the loop when 0 is entered
+- C) Infinitely prints double of the entered number
+- D) Both A and B
+
+
+
+Correct Answer: D) Both A and B
+
+Explanation: The code continuously takes input from the user and prints double of the entered number until 0 is entered, at which point the loop is exited

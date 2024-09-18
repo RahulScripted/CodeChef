@@ -1,0 +1,18 @@
+What does the following code achieve?
+
+#include <iostream>
+using namespace std;
+int main() {
+    cout << 8 << endl << 13 << " " << 21 << endl;
+}
+
+
+Select one of the following options:
+- Prints three numbers on separate lines
+- Prints three numbers on the same line
+- Prints one number on the first line, two numbers on the next line
+- Throws a compilation error
+
+
+Correct Answer: Prints one number on the first line, two numbers on the next line
+Explanation: endl is used to move to the next line

@@ -1,0 +1,14 @@
+To print "C++" and "Programming" on the same line with a space in between, you would write:
+
+
+Select one of the following options:
+
+- cout << "C++Programming";
+- cout << "C++  " << "Programming";
+- cout << "C++" << "Programming";
+- cout << "C++" << endl << "Programming";
+
+
+Correct Answer: cout << "C++  " << "Programming";
+
+Explanation: extra space(" ") is used to separate multiple outputs on the same line

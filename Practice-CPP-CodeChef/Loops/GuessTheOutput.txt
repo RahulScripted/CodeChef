@@ -1,0 +1,26 @@
+What does the following code snippet do?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    int count = 0;
+    while (count < 5) {
+        cout << count << " ";
+        count++;
+    }
+}
+
+
+Select one of the following options:
+
+- Prints numbers 0 to 4 with spaces
+- Prints numbers 1 to 5 with spaces
+- Prints numbers 0 to 4 without spaces
+- Prints numbers 1 to 5 without spaces
+
+
+
+Correct Answer: Prints numbers 0 to 4 with spaces
+
+Explanation: The while loop iterates while the condition "count < 5" is true. It prints the value of the count and increments it until the count becomes 5

@@ -1,0 +1,13 @@
+Print the number 108 using arithmetic operations on the numbers 9 and 12.
+
+
+Output: 
+
+#include <iostream>
+using namespace std;
+int main() {
+  cout<<(12 * 9);
+  return 0;
+}
+
+Output: 108

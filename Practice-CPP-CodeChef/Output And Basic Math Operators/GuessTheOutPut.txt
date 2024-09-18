@@ -1,0 +1,23 @@
+Guess the Output: What does the following code snippet do?
+
+```cpp
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    cout<<21 + 40;
+}
+
+```
+
+Select one of the following options:
+
+- Reads two numbers from the console
+- Adds two numbers and prints the result
+- Multiplies two numbers and prints the result
+- None of the above
+
+Correct Answer:  Adds two numbers and prints the result
+
+Explanation:  Adds two numbers and prints the result. The code outputs the result of the addition operation 21 + 40, which is 61.

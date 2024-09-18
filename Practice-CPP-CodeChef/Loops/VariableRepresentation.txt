@@ -1,0 +1,26 @@
+In a for-each loop, what does the variable num represent in the following code?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    int arr[] = {10, 20, 30, 40, 50};
+    for (int num : arr) {
+        cout << num * 2 << " ";
+    }
+}
+
+
+
+Select one of the following options:
+
+- Index of the array element
+- Index of the array
+- Value of each element in the array
+- Length of the array
+
+
+
+Correct Answer: Value of each element in the array
+
+Explanation: In a for-each loop, the variable (num in this case) represents the value of each element in the array during each iteration

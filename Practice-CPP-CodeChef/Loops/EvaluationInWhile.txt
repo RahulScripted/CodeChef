@@ -1,0 +1,15 @@
+In a while loop, when does the condition get evaluated?
+
+
+Select one of the following options:
+
+- Before each iteration
+- After each iteration
+- Only at the start of the loop
+- Only at the end of the loop
+
+
+
+Correct Answer: Before each iteration
+
+Explanation: In a while loop, the condition is checked before each iteration, and if it is true, the loop body is executed

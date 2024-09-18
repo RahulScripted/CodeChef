@@ -1,0 +1,34 @@
+What is the output of the following code (consider the header files and std namespace included) ?
+
+
+int a = 5;
+void myFunction() {
+    int a = 10;
+    cout << a << endl;
+}
+int main() {
+    myFunction();
+    cout << a << endl;
+}
+
+
+
+Select one of the following options:
+1.  5 
+    10
+
+2.  10
+    5
+
+3.  10
+    10
+
+4.  5
+    5
+
+
+Correct Answer:
+2.  10
+    5
+
+Explanation: Inside myFunction(), a local variable a is declared with a value of 10. It does not affect the global variable a

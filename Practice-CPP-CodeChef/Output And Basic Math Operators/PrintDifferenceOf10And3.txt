@@ -1,0 +1,11 @@
+How do you print the result of difference between 10 and 3?
+
+Select one of the following options:
+
+- cout << 10 - 3;
+- cout << diff(10 - 3);
+- diff(10 - 3)
+- cout << 10 - 3
+
+Correct Answer: cout << 10 - 3;
+Explanation: The code subtracts 3 from 10 and outputs the result.

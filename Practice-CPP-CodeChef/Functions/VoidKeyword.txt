@@ -1,0 +1,15 @@
+What does the void keyword as return type indicate in a function declaration?
+
+
+Select one of the following options:
+
+1.  The function returns a void pointer
+2.  The function has no parameters
+3.  The function does not return any value
+4.  The function has global scope
+
+
+
+Correct Answer: The function does not return any value
+
+Explanation: The void keyword indicates that the function does not return any value

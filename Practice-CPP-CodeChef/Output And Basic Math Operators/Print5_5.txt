@@ -1,0 +1,12 @@
+How do you print "5 5"?
+
+
+Select one of the following options:
+- cout << 5 << 5;
+- cout << 5 << "" << 5;
+- cout << 5 << " " << 5;
+- cout << 5 ;
+  cout << 5;
+
+Correct Answer: cout << 5 << " " << 5;
+Explanation: Use " " to act as an empty space between multiple outputs

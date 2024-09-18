@@ -1,0 +1,10 @@
+Print "Learn Coding on CodeChef" to the console.
+
+
+#include <iostream>
+using namespace std;
+int main() {
+	cout<<"Learn Coding on CodeChef";
+}
+
+Output: Learn Coding on CodeChef

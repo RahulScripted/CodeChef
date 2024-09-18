@@ -1,0 +1,28 @@
+What does the break statement do in the below provided loop?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    for (int i = 0; i < 10; i++) {
+        if (i == 5) {
+            break;
+        }
+    cout << i << " ";
+    }
+}
+
+
+
+Select one of the following options:
+
+- Exits the loop when i is equal to 5
+- Continues to the next iteration when i is equal to 5
+- Skips the loop entirely
+- Prints numbers from 0 to 10 and skip 5
+
+
+
+Correct Answer: Exits the loop when i is equal to 5
+
+Explanation: The break statement is used to exit a loop prematurely. In this case, the loop will exit when the value of i is equal to 5

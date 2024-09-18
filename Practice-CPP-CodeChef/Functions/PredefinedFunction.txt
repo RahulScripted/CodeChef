@@ -1,0 +1,14 @@
+Which of the following is a predefined function for calculating the square root of a number?
+
+
+Select one of the following options:
+
+1. pow()
+2. abs()
+3. sqrt()
+4. ceil()
+
+
+Correct Answer: sqrt()
+
+Explanation: The sqrt() function is used to calculate the square root of a number

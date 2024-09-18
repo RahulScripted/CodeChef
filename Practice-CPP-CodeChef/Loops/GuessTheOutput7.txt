@@ -1,0 +1,22 @@
+What does the following code snippet do?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    for (char c = 'A'; c <= 'E'; ++c)
+        cout << c << " ";
+}
+
+
+Select one of the following options:
+
+- Prints characters from 'A' to 'E'
+- Compilation error
+- Prints ASCII values from 65 to 69
+- Prints nothing
+
+
+Correct Answer: Prints characters from 'A' to 'E'
+
+Explanation: The loop iterates over characters from 'A' to 'E' inclusive and prints them

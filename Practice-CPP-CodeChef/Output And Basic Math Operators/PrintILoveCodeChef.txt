@@ -1,0 +1,15 @@
+Print each word of the below-given sentence on a new line I love CodeChef
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    cout<<"I"<<endl<<"love"<<endl<<"codechef"<<endl;
+    return 0;
+}
+
+
+Output: 
+            I
+            love
+            codechef

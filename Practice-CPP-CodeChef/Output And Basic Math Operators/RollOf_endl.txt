@@ -1,0 +1,19 @@
+What is the role of "\n" in the below code?
+
+#include <iostream>
+using namespace std;
+int main() {
+    cout << 7 << "\n" << 5;
+}
+
+
+Select one of the following options:
+
+- Subtraction
+- Addition
+- Division
+- None of the above
+
+Correct Answer: None of the above
+
+Explanation: "\n" is the same as endl, moves to the next line

@@ -1,0 +1,14 @@
+How would you print the below text? *** Coding, Chef! ***
+
+
+Select one of the following options:
+
+- cout << "Coding, Chef!";
+- cout << Coding, Chef!;
+- cout << 'Coding, Chef!';
+- cout << Coding << Chef;
+
+
+Correct Answer: cout << "Coding, Chef!";
+
+Explanation: Text should be enclosed in double quotes when using "cout" to print.

@@ -1,0 +1,21 @@
+In a for loop, where is the loop variable typically initialized?
+
+
+for (Statement1; Statement2; Statement3) {
+    // code block
+}
+
+
+
+Select one of the following options:
+
+- Statement 2
+- Statement 1
+- Statement 3
+- Outside the loop
+
+
+
+Correct Answer: Statement 1
+
+Explanation: Statement 1 is the initialization part of the for loop where the loop variable is typically initialized

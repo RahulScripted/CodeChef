@@ -1,0 +1,21 @@
+What is the purpose of statement 3 in a for loop?
+
+
+for (Statement1; Statement2; Statement3) {
+    // code block
+}
+
+
+
+Select one of the following options:
+
+- Executed before the loop starts
+- Defines the condition for executing the code block
+- Defines the updation rules of the loop variable
+- Defines the initial value of the loop variable
+
+
+
+Correct Answer: Defines the updation rules of the loop variable
+
+Explanation: Statement 3 is executed after the loop body in each iteration and is typically used for incrementing or decrementing the loop variable, i.e defining the updation rules of the loop variable

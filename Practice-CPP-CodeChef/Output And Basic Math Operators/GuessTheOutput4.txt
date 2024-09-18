@@ -1,0 +1,21 @@
+What will be the output of the following code snippet?
+
+#include <iostream>
+using namespace std;
+int main() {
+    cout << "Hello " << "World" << 5 << " endl" <<2;
+}
+
+
+Select one of the following options:
+
+- Hello World5 endl2
+- Hello World5 
+2
+- Hello World 5 
+2
+- Hello World 5 endl 2
+
+
+Correct Answer: Hello World5 endl2
+Explanation: endl should not be in "" to move to the next line and " " acts as an empty space between multiple outputs

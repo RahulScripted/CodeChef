@@ -1,0 +1,15 @@
+What is the purpose of the return statement in a function?
+
+
+Select one of the following options:
+
+- To print output to the console
+- To exit the function prematurely
+- To declare a variable
+- To provide a value back to the caller
+
+
+
+Correct Answer: To provide a value back to the caller
+
+Explanation: The return statement in a function is used to provide a value back to the caller

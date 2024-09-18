@@ -1,0 +1,11 @@
+Identify the correct syntax from the options below.
+
+Select one of the following options:
+
+- #include <iostream>;
+- ?include <iostream>;
+- #include <iostream>
+- #include <iosteam>;
+
+Correct Answer: #include <iostream>
+Explanation: The correct syntax is #include <iostream>, we do not use ; 

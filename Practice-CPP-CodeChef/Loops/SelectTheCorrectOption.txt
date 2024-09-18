@@ -1,0 +1,15 @@
+Which of the following is true about the loop condition in a for loop?
+
+
+Select one of the following options:
+
+- It must be an integer value
+- It must evaluate to a boolean expression
+- It can only be a constant
+- It is non-optional
+
+
+
+Correct Answer: It must evaluate to a boolean expression
+
+Explanation: The loop condition must evaluate to a boolean expression, determining whether the loop should continue or terminate

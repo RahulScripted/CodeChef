@@ -1,0 +1,25 @@
+How many times will the following loop iterate?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    for (int i = 0; i < 100; i += 5) {
+    // code block
+    }
+}
+
+
+
+Select one of the following options:
+
+- 20 times
+- 19 times
+- 100 times
+- 21 times
+
+
+
+Correct Answer: 20 times
+
+Explanation: The loop increments i by 5 in each iteration, so when the value of i is equal to 100 the loop exists. So the loop will iterate 20 times (100 / 5)

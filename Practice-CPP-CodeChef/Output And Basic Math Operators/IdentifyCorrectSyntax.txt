@@ -1,0 +1,13 @@
+What is the correct syntax for printing the number 5?
+
+
+Select one of the following options:
+
+- print(5);
+- display(5);
+- console.log(5);
+- cout << 5;
+
+Correct Answer: cout << 5;
+
+Explanation: The correct syntax for printing in C++ is "cout << value;".

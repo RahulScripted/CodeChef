@@ -1,0 +1,12 @@
+Identify the incorrect syntax from the given options.
+
+Select one of the following options:
+
+- cout << "Hello, World";
+- cout << 5 + 3 / 2;
+- cout << "Hello, World';
+- cout << "5 + 3";
+
+Correct Answer: cout << "Hello, World';
+
+Explanation: Text to be printed using "cout" should be enclosed in double quotes.

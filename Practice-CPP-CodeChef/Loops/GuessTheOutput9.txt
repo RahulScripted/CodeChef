@@ -1,0 +1,28 @@
+How does the continue statement affect the loop?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    for (int i = 0; i < 5; i++) {
+        if (i == 2) {
+            continue;
+        }
+        cout << i << " ";
+    }
+}
+
+
+
+Select one of the following options:
+
+- Exits the loop when i is equal to 2
+- Continues to the next iteration when i is equal to 2
+- Skips the loop entirely
+- Prints numbers from 0 to 4
+
+
+
+Correct Answer: Continues to the next iteration when i is equal to 2
+
+Explanation: The continue statement is used inside loops to skip the remaining code in the current iteration and proceed to the next iteration of the loop. When the continue statement is encountered, the loop's control flow jumps immediately to the next iteration, bypassing any code that comes after it within the same iteration.

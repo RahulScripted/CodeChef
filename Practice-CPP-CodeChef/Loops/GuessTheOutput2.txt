@@ -1,0 +1,26 @@
+What is the output of the following code snippet?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    int x = 0;
+    do {
+        cout << x << " ";
+        x += 2;
+    } while (x < 5);
+}
+
+
+
+Select one of the following options:
+- 0 2 4 6
+- 0 2 4
+- 2 4 6
+- 0 2 4 6 8
+
+
+
+Correct Answer: 0 2 4
+
+Explanation: The do-while loop prints the value of x and increments it by 2 in each iteration until x becomes greater than or equal to 5

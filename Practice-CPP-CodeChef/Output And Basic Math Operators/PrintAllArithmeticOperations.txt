@@ -1,0 +1,18 @@
+Write a program that calculates and prints the results of arithmetic operations such as addition, subtraction, division, and multiplication between the numbers 8 and 4.
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    cout<<(8 + 4)<<endl;
+    cout<<(8 - 4)<<endl;
+    cout<<(8 / 4)<<endl;
+    cout<<(8 * 4)<<endl;
+}
+
+
+Output:
+                12
+                4
+                2
+                32

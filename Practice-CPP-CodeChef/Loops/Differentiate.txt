@@ -1,0 +1,15 @@
+How is the do-while loop different from the while loop?
+
+
+Select one of the following options:
+
+- The while loop executes the code block at least once, even if the condition is false initially
+- The do-while loop requires an additional condition check
+- The while loop requires an additional condition check
+- The do-while loop executes the code block at least once, even if the condition is false initially.
+
+
+
+Correct Answer: The do-while loop executes the code block at least once, even if the condition is false initially.
+
+Explanation: The do-while loop always executes the code block at least once because it checks the condition after the first iteration

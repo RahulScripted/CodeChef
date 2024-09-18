@@ -1,0 +1,28 @@
+How many times will the following loop iterate?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    for (int i = 1; i <= 10; i++) {
+        if (i % 2 != 0) {
+          continue;
+        }
+        cout << i << " ";
+    }
+}
+
+
+
+Select one of the following options:
+
+- 10 times
+- 5 times
+- 9 times
+- 6 times
+
+
+
+Correct Answer: 10 times
+
+Explanation: The loop will be iterated for all the values of i from 1 to 10, i.e 10 times, but the "cout << i" line will only be executed only 5 times and the continue statement will skip to the next iteration whenever i is odd

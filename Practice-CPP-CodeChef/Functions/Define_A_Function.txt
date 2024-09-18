@@ -1,0 +1,29 @@
+How is a function defined?
+
+
+Select one of the following options:
+
+1.  return_type function_name(parameters) 
+    { /* code */ }
+
+2.  parameters function_name 
+    { /* code */ } 
+    return_type
+
+3.  (return_type) function_name 
+    { /* code */ } 
+    parameters
+
+4.  return_type 
+    { /* code */ } 
+    function_name(parameters)
+
+
+
+Correct Answer:
+return_type function_name(parameters) 
+{ /* code */ }
+
+Explanation: A function is defined with the syntax:
+return_type function_name(parameters) 
+{ /* code */ }

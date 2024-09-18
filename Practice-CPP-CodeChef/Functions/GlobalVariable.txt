@@ -1,0 +1,14 @@
+Where do we define global variables?
+
+
+Select one of the following options:
+
+- Inside a function
+- Inside a loop
+- Outside of any function
+- None of the above
+
+
+Correct Answer: Outside of any function
+
+Explanation: Global variables are defined outside of any function or class

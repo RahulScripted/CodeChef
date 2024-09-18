@@ -1,0 +1,11 @@
+How can you print the result of 6 divided by 2?
+
+Select one of the following options:
+
+- cout << 6 / 2;
+- div(6, 2);
+- cout << div(6, 2) ;
+- None of the above
+
+Correct Answer: cout << 6 / 2;
+Explanation: The "/" operator is used to perform Division.
