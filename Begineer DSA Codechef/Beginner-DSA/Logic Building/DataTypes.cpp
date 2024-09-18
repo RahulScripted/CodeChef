@@ -1,0 +1,21 @@
+// Lets look at some common data types found in programming problems for beginners
+
+
+
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+  int a = -5; // Integer variable
+  cout << a << endl;
+
+  float b = 4.0; // Float variable
+  cout << b << endl;
+
+  string s = "abcd"; // String variable
+  cout << s << endl;
+
+  int arr[4] = { 7, 8, 9, 10 }; // Integer array
+  cout << arr[2];
+}
