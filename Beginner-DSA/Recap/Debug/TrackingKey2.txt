@@ -1,0 +1,58 @@
+Given below is the program to count all the numbers which are divisible by 2,3 or 5 and are less than or equal to 30. Read the program carefully and find the correct output.
+
+
+
+#include <iostream>
+using namespace std;
+
+int main(){
+    int count = 0;
+    for(int i=1;i<=30;i++){
+        if(i%2==0){
+            count++;
+        }
+    }
+    cout<<count<<"\n";  // tracing count which stores number divisible by 2.
+    for(int i=1;i<=30;i++){
+        if(i%3==0&&i%2!=0){
+            count++;
+        }
+    }
+    cout<<count<<"\n"; // tracing count which stores number divisible by 2 and 3.
+    for(int i=1;i<=30;i++){
+        if(i%5==0&&i%2!=0&&i%3!=0){
+            count++;
+        }
+    }
+    cout<<count<<"\n"; // final answer which stores number divisible by 2,3 and 5
+
+    return 0;
+}
+
+
+
+Find the correct output.
+
+1.  16
+    20
+    22
+
+2.  15
+    20
+    22
+
+3.  15
+    19
+    22
+
+4.  15
+    21
+    22
+
+
+
+Answer: 
+
+2.  15
+    20
+    22

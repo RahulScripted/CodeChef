@@ -1,0 +1,25 @@
+Malvika likes only 2 colours - amber and brass. Her mother bought n balloons - each of which is either amber or brass in colour. The colours of the balls is provided as a string consisting of characters 'a' and 'b'
+
+1.  'a' denotes amber coloured balloon
+2.  'b' denotes brass coloured balloon
+
+Malvika wants all balloons to be of the same colour - she can paint some balloons with opposite colour. Find out the minimum number of balloons she needs to paint to make all of them the same colour.Select the correct option from the following:
+
+1.  For the 10 balloon sequence 'aaaaabbbbb', Malvika needs to paint 5 balloons.
+
+2.  For the 10 balloon sequence 'aaaaaabbbb', Malvika needs to paint 6 balloons.
+
+3.  For the 10 balloon sequence 'aaaaaabbbb', Malvika needs to paint 4 balloons.
+
+4.  For the 10 balloon sequence 'aaaaaaaabb', Malvika needs to paint 2 balloons.
+
+
+
+
+Answers: 
+
+1.  For the 10 balloon sequence 'aaaaabbbbb', Malvika needs to paint 5 balloons.
+
+3.  For the 10 balloon sequence 'aaaaaabbbb', Malvika needs to paint 4 balloons.
+
+4.  For the 10 balloon sequence 'aaaaaaaabb', Malvika needs to paint 2 balloons.

@@ -1,0 +1,19 @@
+You have N balls and K boxes. You want to divide the N balls into K boxes such that:
+
+1.  Each box contains ≥ 1 balls.
+
+2.  No two boxes contain the same number of balls.
+
+Determine if it is possible to do so. For the following options of N and K - please select cases where it is possible to distribute N balls into K boxes.
+
+1.  N = 10 and K = 4
+2.  N = 9 and K = 4
+3.  N = 22 and K = 6
+4.  N = 19 and K = 6
+
+
+
+Answers: 
+
+1.  N = 10 and K = 4
+3.  N = 22 and K = 6

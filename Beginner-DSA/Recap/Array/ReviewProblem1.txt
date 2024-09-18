@@ -1,0 +1,26 @@
+Chef recorded a video explaining his favorite recipe. However, the size of the video is too large to upload on the internet. He wants to compress the video so that it has the minimum size possible.
+
+Chef's video has N frames initially. The value of the ith frame is Ai. Chef can do the following type of operation any number of times: Choose an index (1 ≤ i ≤ N) such that the value of the ith frame is equal to the value of either of its neighbors and remove the ith frame. Find the minimum number of frames Chef can achieve.
+
+
+
+
+
+Which of the following are the correct options?
+
+1.  If the 10 frames are [1 2 2 3 3 3 4 4 4 4], then minimum frames are 6.
+
+2.  If the 10 frames are [1 2 2 3 3 3 4 4 4 4], then minimum frames are 4.
+
+3.  If the 10 frames are [1 2 3 4 2 3 4 3 4 4], then minimum frames are 10.
+
+4.  If the 10 frames are [1 2 3 4 2 3 4 3 4 4], then minimum frames are 9.
+
+
+
+
+Answers: 
+
+2.  If the 10 frames are [1 2 2 3 3 3 4 4 4 4], then minimum frames are 4.
+
+4.  If the 10 frames are [1 2 3 4 2 3 4 3 4 4], then minimum frames are 9.

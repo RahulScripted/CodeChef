@@ -1,0 +1,37 @@
+Read the program given below carefully and find out the right flow of control, from the given options.
+
+
+
+
+#include <iostream>
+using namespace std;
+
+void name(){
+    cout<<"My name is Krish\n";
+}
+
+void reply(){
+    cout<<"Doing great\n";
+}
+
+int main(){
+    cout<<"Hello bro, What is your name\n";
+    name();
+    cout<<"How you doing Krish\n";
+    reply();
+    return 0;
+}
+
+
+
+
+Find the correct flow of control.
+
+1.  main()->name()->main()->reply()->main()
+2.  main()->name()->reply()
+3.  name()->main()->reply()->main()
+4.  name()->reply()->main()
+
+
+
+Answers: main()->name()->main()->reply()->main()

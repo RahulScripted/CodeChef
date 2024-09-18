@@ -1,0 +1,27 @@
+Given below is a program to multiply two numbers and print the product of the number.
+
+#include <iostream>
+using namespace std;
+
+int main(){
+    int num1,num2;
+    cin>>num1>>num2;
+    long long ans = num1*num2;
+    cout<<ans<<"\n";
+    return 0;
+}
+
+Find the correct edge test case.
+
+1.  342 432
+
+2.  0 132454
+
+3.  0 0
+
+4.  1000000 1000000
+
+
+
+
+Answers: 4. 1000000 1000000

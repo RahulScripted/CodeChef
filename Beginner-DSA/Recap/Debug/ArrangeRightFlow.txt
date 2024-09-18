@@ -1,0 +1,52 @@
+Read the program given below carefully and find out the right flow of control, from the given options.
+
+
+
+
+#include <iostream>
+using namespace std;
+
+void ram1(){
+    cout<<"Hello Daksh\n";
+}
+
+void Daksh1(){
+    cout<<"Hey Ram\n";
+}
+
+void ram2(){
+    cout<<"How's your mother health now\n";
+}
+
+void Daksh2(){
+    cout<<"She is fine now\n";
+}
+
+void startconversation(){
+    ram1();
+    Daksh1();
+    ram2();
+    Daksh2();
+}
+
+int main(){
+    startconversation();
+    return 0;
+}
+
+
+
+
+Find the correct flow of control.
+
+1.  main()->startconversation()->main()->ram1()->main()->daksh1()->main()->ram2()->main()->daksh2()->main()
+
+2.  main()->startconversation()->ram1()->startconversation()->daksh1()->startconversation()->ram2()->startconversation()->daksh2()->startconversation()->main()
+
+3.  main()->startconversation()->ram1()->daksh1()->ram2()->daksh2()->startconversation()->main()
+
+4.  main()->startconversation()->ram1()->startconversation()->daksh1()->startconversation()->ram2()->startconversation()->daksh2()->main()
+
+
+
+Answers: 2. main()->startconversation()->ram1()->startconversation()->daksh1()->startconversation()->ram2()->startconversation()->daksh2()->startconversation()->main()

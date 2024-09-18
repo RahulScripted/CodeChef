@@ -1,0 +1,34 @@
+Given a program to check whether the sum of all the elements of an array is divisible by 2 or not. We have inserted some checkpoints in the given program you must find out the good checkpoint which one must use for debugging the code.
+
+
+
+#include <iostream>
+using namespace std;
+
+int main(){
+    int val = 0;
+    cout<<val<<" = Checkpoint1\n";
+    int arr[8] = {1,0,1,0,1,1,0,1};
+    val = arr[0];
+    for(int i=1;i<=7;i++){
+        val = val+arr[i];
+    }
+    cout<<val<<" = Checkpoint2\n";
+    val = val%2;
+    if(val==1){
+        cout<<"not divisible by 2\n";
+    }
+    else{
+        cout<<"divisible by 2\n";
+    }
+}
+
+
+
+Find the good checkpoint.
+
+1.  Checkpoint1
+2.  Checkpoint2
+
+
+Answers: 2.  Checkpoint2

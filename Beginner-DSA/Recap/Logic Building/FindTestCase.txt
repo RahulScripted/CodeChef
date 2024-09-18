@@ -1,0 +1,54 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int t, i = 1, j = 0, n, k;
+    cin >> t;
+    
+    for (i; i <= t; i++) {
+        cin >> n;
+        cin >> k;
+        int A[n];
+        
+        for (j; j < n; j++) {
+            cin >> A[j];
+            if (k >= A[j]) {
+                cout << 1;
+                k = k - A[j];
+            } else {
+                cout << 0;
+            }
+        }
+        cout << endl;
+    }
+    return 0;
+}
+
+Choose the correct edge test case.
+
+1.  1
+    5 10
+    3 5 3 2 1
+
+2.  1
+    4 6
+    10 8 6 4
+
+3.  2
+    5 10
+    3 5 3 2 1
+    4 6
+    10 8 6 4
+
+4.  1
+    5 5
+    4 2 2 2 1
+
+
+Answer:
+
+3.  2
+    5 10
+    3 5 3 2 1
+    4 6
+    10 8 6 4

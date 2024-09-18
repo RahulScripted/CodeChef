@@ -1,0 +1,51 @@
+Rearrange the following code
+
+            <----------- Before ---------->
+
+#include <iostream>
+using namespace std;
+int main() {
+    int t;
+    cin>>t;
+    while(t--)
+    {
+    string s,n="yes";
+    cin>>s;
+    cout<<n<<endl;
+        if(s[i]==s[i+1])
+            break;
+            n="no";
+    for(int i=0;i<s.length();i=i+2)
+    {
+        {
+        }
+    }
+    }
+	return 0;
+}
+
+
+
+            <----------- After ---------->
+            
+#include <iostream>
+using namespace std;
+int main() {
+    int t;
+    cin>>t;
+    while(t--)
+    {
+        string s,n="yes";
+        cin>>s;
+        for(int i=0;i<s.length();i=i+2)
+        {
+            if(s[i]==s[i+1])
+            {
+                n="no";
+                break;
+            }
+        }
+        cout<<n<<endl;
+    }
+	return 0;
+}
