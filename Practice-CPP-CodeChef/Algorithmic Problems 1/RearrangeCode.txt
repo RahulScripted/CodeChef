@@ -1,0 +1,27 @@
+You want to input two integers, and output their sum.Rearrange the code givens, so that it does the above task.
+
+
+            <--------- Given Data ----------->
+
+#include <bits/stdc++.h>
+using namespace std;
+int main() {
+  cout << sum;
+  cin >> a >> b;
+  int a, b;
+  int sum = a + b;
+  return 0;
+}
+
+
+        <--------- After Rearrange Data ----------->
+        
+#include <bits/stdc++.h>
+using namespace std;
+int main() {
+  int a, b;
+  cin >> a >> b;
+  int sum = a + b;
+  cout << sum;
+  return 0;
+}

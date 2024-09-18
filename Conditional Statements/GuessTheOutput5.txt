@@ -1,0 +1,15 @@
+What does the following code represent? if (x > 5 && y < 10)
+
+
+Select one of the following options:
+
+- Check if either x is greater than 5 or y is less than 10
+- Check if both x is greater than 5 and y is less than 10
+- Check if either x or y is greater than 5
+- Check if both x and y are greater than 5
+
+
+
+Correct Answer: Check if both x is greater than 5 and y is less than 10
+
+Explanation: The '&&' operator in the 'if' condition requires both conditions to be true for the code inside the block to execute

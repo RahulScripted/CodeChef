@@ -1,0 +1,22 @@
+What does the variable result store?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    bool result = true && false;
+}
+
+
+Select one of the following options:
+
+- true
+- Code produces Compilation error
+- false
+- Code produces Runtime error
+
+
+
+Correct Answer: false
+
+Explanation: The '&&' operator returns false if any of the conditions is false

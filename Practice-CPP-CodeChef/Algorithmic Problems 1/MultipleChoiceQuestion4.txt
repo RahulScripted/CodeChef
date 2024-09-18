@@ -1,0 +1,19 @@
+Chef needs to park her car while she watches a movie. The parking charges at the theater are as follows:
+
+Rs. X for the first 1 hour
+Rs. Y for every extra hour after the first hour
+
+If Chef parks her car for H hours, what is the total parking charges that she should pay?
+
+
+
+Select one of the following options.
+- X + Y * (H - 1)
+- X + Y * H
+- X * (H - 1) + Y
+- (X + Y) * H
+
+
+Correct Answer: X + Y*(H-1)
+
+Explanation: Since the first hour needs Rs. X, we take that, and for the other H-1 hours, we take (H-1)*X. And add both of these together.

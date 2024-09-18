@@ -1,0 +1,30 @@
+What will be the output of the following code snippet?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    int num = 2.2;
+    switch(num) {
+        case 1.2:
+            cout << "one";
+        case 2.2:
+            cout << "two";
+        case 3.2:
+            cout << "three"; 
+    }
+}
+
+
+
+Select one of the following options:
+
+- two
+- onetwo
+- Throws an error
+- None of the above
+
+
+Correct Answer: Throws an error
+
+Explanation: The switch expression must be of an integral or enumeration type and int cannot store decimal values.

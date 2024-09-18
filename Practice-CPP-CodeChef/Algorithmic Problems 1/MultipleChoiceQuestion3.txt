@@ -1,0 +1,15 @@
+Chef has recently started learning from the new CodeChef SQL course.
+
+He has a table which initially has 4 rows and 5 columns. He then adds 2 extra rows to it. How many total cells does he have finally?
+
+
+Select one of the following options.
+
+- 28
+- 30
+- 32
+- 20
+
+
+Correct Answer: 30
+Explanation: The new number of rows is (4 + 2), and so the total number of cells is (4 + 2) * 5 = 6 * 5 = 30.

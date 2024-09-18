@@ -1,0 +1,15 @@
+Chef and Chefina are playing with dice. In one turn, both of them roll their dice at once. They consider a turn to be good if the sum of the numbers on their dice is greater than 6. Given that in a particular turn Chef and Chefina got X and Y on their respective dice, select the options which are good turns.
+
+
+Select all the correct options.
+
+1. X = 3, Y = 4
+2. X = 3, Y = 3
+3. X = 4, Y = 4
+4. X = 3, Y = 2
+
+
+
+Correct Answer(s):
+1. X = 3, Y = 4
+3. X = 4, Y = 4

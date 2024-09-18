@@ -1,0 +1,31 @@
+What will be the output of the following code snippet?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    int num = 5;
+    switch(num) {
+        case 1:
+            cout << "One";
+        case 5:
+            cout << "Five";
+            break;
+        default:
+            cout << "Default";
+    }
+}
+
+
+Select one of the following options:
+
+- One
+- Five
+- OneFive
+- FiveDefault
+
+
+
+Correct Answer: Five
+
+Explanation: Since case 1 is not matched it does not matter whether there is a break. So when num is 5, the case 5 is matched, and the code associated with it is executed and then the break statement stops the further execution

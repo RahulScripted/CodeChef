@@ -1,0 +1,14 @@
+In C++, what statement do you use to output the number 42 to the screen?
+
+
+Select one of the following options.
+
+- print 42;
+- cout 42;
+- cout << 42;
+- cout << 42
+
+
+Correct Answer: cout << 42;
+
+Explanation: Perfect! Always remember to end each statement with a ;

@@ -1,0 +1,24 @@
+What does the following code snippet do?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    int numbers[3] = {1, 2, 3};
+    cout << numbers[1];
+}
+
+
+
+Select one of the following options:
+
+- Prints 1
+- Prints 2
+- Prints 3
+- Compilation error
+
+
+
+Correct Answer: Prints 2
+
+Explanation: The code prints the element at index 1 of the array numbers, which is 2

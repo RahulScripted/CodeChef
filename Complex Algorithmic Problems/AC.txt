@@ -1,0 +1,15 @@
+What does the term "AC" stand for in the context of programming competitions?
+
+
+Select one of the following options:
+
+- Automatic Code
+- Assertion Check
+- Accepted
+- Algorithm Complexity
+
+
+
+Correct Answer: Accepted
+
+Explanation: AC stands for Accepted, indicating that the code has passed all test cases

@@ -1,0 +1,22 @@
+Chef wants to appear in a competitive exam. To take the exam, there are following requirements:
+
+
+1.  Minimum age limit is X (i.e. Age should be greater than or equal to X).
+2.  Age should be strictly less than Y.
+
+Select the ages which are eligible, if X = 10, and Y = 20.
+
+
+
+Select all the correct options.
+
+- 9
+- 10
+- 19
+- 20
+
+
+
+Correct Answer(s):
+10
+19

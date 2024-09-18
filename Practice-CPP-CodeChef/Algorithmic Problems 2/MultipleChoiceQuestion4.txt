@@ -1,0 +1,14 @@
+Determine the number of black cells in an 6×6 chessboard.
+
+
+Select the correct option.
+
+- 6
+- 12
+- 18
+- 8
+
+
+Correct Answer: 18
+
+Explanation: The total cells in a 6 * 6 chessboard will be 36. Half of them will be black cells, thus 18.

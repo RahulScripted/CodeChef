@@ -1,0 +1,23 @@
+What is the output of the following code?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    int values[] = {1, 2, 3, 4, 5};
+    cout << sizeof(values) / sizeof(values[0]);
+}
+
+
+Select one of the following options:
+
+- 1
+- 5
+- 20
+- Compilation error
+
+
+
+Correct Answer: 5
+
+Explanation: The code calculates the number of elements in the array by dividing the total size of the array by the size of one element

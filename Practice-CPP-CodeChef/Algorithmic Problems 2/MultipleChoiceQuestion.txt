@@ -1,0 +1,48 @@
+In C++, what statement do you use to check whether a variable A is equal to 2? And if it is, print 9.
+
+
+Select one of the following options
+
+1. if(A == 2); {
+        cout << 9;
+    }
+
+2.  if(A == 2){
+        cout << 9;
+    }
+
+3.  if(A == 2){
+        cout << 9;
+    };
+
+4.  if(A = 2){
+        cout << 9;
+    }
+
+
+Correct Answer:
+    if(A == 2){
+        cout << 9;
+    }
+
+Explanation: Let's break down each of the options:
+
+1. if(A == 2);{ 
+     cout << 9; 
+   }
+   This option is incorrect. The semicolon ; after the if condition terminates the statement. Therefore, even if A is not equal to 2, the code block { cout << 9; } will always be executed because it's not part of the if statement. This is a common mistake, and the semicolon after the if should be removed.
+
+2. if(A == 2){ 
+    cout << 9; 
+   }
+   This option is correct. Here, the if statement checks if A is equal to 2. If the condition is true, the code block { cout << 9; } will be executed, printing 9 to the console.
+
+3. if(A == 2){ 
+     cout << 9; 
+   };
+   This option is also correct but not conventional. The semicolon ; after the code block { cout << 9; } is unnecessary. Although it won't cause an error, it's not a standard practice to include a semicolon after the closing brace of an if statement.
+
+4. if(A = 2) { 
+     cout << 9; 
+   }
+   This option is incorrect. The single equal sign = is the assignment operator, not the equality comparison operator. In this case, A will be assigned the value of 2, and the condition will always evaluate to true, executing the code block { cout << 9; }. This is not what you want if you are trying to check whether A is equal to 2. The correct equality comparison operator is ==.

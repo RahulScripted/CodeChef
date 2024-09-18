@@ -1,0 +1,16 @@
+Alice has scored X marks in her test and Bob has scored Y marks in the same test. Alice is happy if she scored at least twice the marks of Bob’s score. Print "Yes" if she is happy.
+
+
+Select all the correct options.
+
+- if(X > (2*Y)) { cout << "Yes\n"; }
+- if(X >= (2*Y)) { cout << "Yes\n"; }
+- if((2*Y) <= X) { cout << "Yes\n"; }
+- if((2*X) >= Y) { cout << "Yes\n"; }
+
+
+Correct Answer(s):
+if(X >= (2*Y)) { cout << "Yes\n"; }
+if((2*Y) <= X) { cout << "Yes\n"; }
+
+Explanation: if(X >= (2*Y)) { cout << "Yes\n"; } and if((2*Y) <= X) { cout << "Yes\n"; } are the same!

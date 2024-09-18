@@ -1,0 +1,26 @@
+What will be the output of the following code?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    int a = 15;
+    if (a > 10) cout << "Greater than 10";
+    if (a > 5) cout << "Greater than 5";
+}
+
+
+Select one of the following options:
+
+- Greater than 10
+- Greater than 5
+- Greater than 10 Greater than 5
+- None of the above
+
+
+Correct Answer: None of the above
+
+Explanation: The code does not have an else statement, so both conditions are checked independently. Both conditions are true, so both messages are printed but since there is no space added externally both messages will be printed one after the other.
+
+
+Output: Greater than 10Greater than 5

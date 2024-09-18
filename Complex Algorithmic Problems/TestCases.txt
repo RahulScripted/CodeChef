@@ -1,0 +1,15 @@
+What is the primary purpose of sample test cases in programming problems?
+
+
+Select one of the following options:
+
+- Understand what are the input and output expectations for the problem
+- Evaluate the execution speed of the code
+- Determine the memory usage of the code
+- Check for syntax errors in the code
+
+
+
+Correct Answer: Understand what are the input and output expectations for the problem
+
+Explanation: Sample Test cases are used to understand what the problem expects as an input and output

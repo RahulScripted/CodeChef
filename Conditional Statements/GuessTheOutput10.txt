@@ -1,0 +1,24 @@
+What is the output of the following code snippet?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    bool a = false;
+    bool b = true;
+    bool c = false;
+    cout<< (a && b) || (c || a);
+}
+
+
+Select one of the following options:
+
+- 0
+- 1
+- Throws an error
+- None of the above
+
+
+Correct Answer: 0
+
+Explanation: The first part, (a && b), evaluates to false since it represents the logical AND between false and true. The second part, (c || a), also evaluates to false as it represents the logical OR between false and false. Combining both parts with the || operator results in false

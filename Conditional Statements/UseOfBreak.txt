@@ -1,0 +1,15 @@
+What is the purpose of the break statement in a switch statement?
+
+
+Select one of the following options:
+
+- To end the entire program
+- To move to the next case
+- To execute the default case
+- To end the execution of switch block at a specific point
+
+
+
+Correct Answer: To end the execution of switch block at a specific point
+
+Explanation: The break statement is used to exit the switch block

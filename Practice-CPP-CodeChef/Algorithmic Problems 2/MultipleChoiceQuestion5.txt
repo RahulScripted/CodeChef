@@ -1,0 +1,25 @@
+Given X and Y, which of these statements outputs the absolute difference between them?
+
+
+Select all the correct options.
+
+1.  if(X > Y) { cout << (X-Y); }
+    else { cout << (Y-X); }
+
+2.  if(X >= Y) { cout << (X-Y); }
+    else { cout << (Y-X); }
+
+3.  if(X >= Y) { cout << (Y-X); }
+    else { cout << (X-Y); }
+
+4.  if(X > Y) { cout << (Y-X); }
+    else { cout << (X-Y); }
+
+
+Correct Answer(s):
+
+1.  if(X > Y) { cout << (X-Y); }
+    else { cout << (Y-X); }
+
+2.  if(X >= Y) { cout << (X-Y); }
+    else { cout << (Y-X); }

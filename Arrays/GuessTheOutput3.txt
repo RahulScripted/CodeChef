@@ -1,0 +1,24 @@
+What does the following code snippet do?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    int myNumbers[5] = {10, 20, 30, 40, 50};
+    cout << sizeof(myNumbers[2]);
+}
+
+
+
+Select one of the following options:
+
+- Prints the sum of array elements
+- Prints the size of the array 
+- Prints the size of an individual element of the array
+- Prints the number of elements in the array
+
+
+
+Correct Answer: Prints the size of an individual element of the array
+
+Explanation: The sizeof() operator returns the size of the variable present inside the parenthesis in bytes

@@ -1,0 +1,19 @@
+What does the following code snippet do?
+
+if (!(x > 0)) {
+    // Code block
+}
+
+
+Select one of the following options:
+
+- A) Executes the code block if x is greater than 0
+- B) Executes the code block if x is less than 0
+- C) Executes the code block if x is equal to 0
+- D) Both option B and C
+
+
+
+Correct Answer: D) Both option B and C
+
+Explanation: The "!" negates the condition, so instead of executing when "x > 0" the code is executed when "x <= 0"

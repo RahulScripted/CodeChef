@@ -1,0 +1,13 @@
+Somu went to the gym today. He decided to do X sets of squats. Each set consists of 15 squats. What is the total number of squats that he did today?
+
+
+Select all the correct options.
+
+- 30 * X
+- X + 15*X
+- 15 + X
+- 15 * X
+
+
+
+Correct Answer: 15 * X

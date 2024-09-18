@@ -1,0 +1,25 @@
+What does the following code snippet do?
+
+
+#include <iostream>
+using namespace std;
+int main() {
+    char letters[3] = {'A', 'B', 'C'};
+    letters[2] = 'D';
+    cout << letters[2];
+}
+
+
+
+Select one of the following options:
+
+- Prints 'A'
+- Prints 'B'
+- Prints 'C'
+- Prints 'D'
+
+
+
+Correct Answer: Prints 'D'
+
+Explanation: The code changes the value at index 2 to 'D' and then prints the updated value
