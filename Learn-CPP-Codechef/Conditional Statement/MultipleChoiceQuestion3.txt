@@ -1,0 +1,26 @@
+What will be the output of this code?
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int a = 10;
+    int b = 10;
+
+    if (a > b) cout << "a is greater. ";
+    else cout << "a is not greater than b. "
+    cout << "Program ends";
+}
+
+
+
+Select one of the following options.
+
+1.  a is greater. Program ends
+2.  a is greater. a is not greater than b. Program ends
+3.  a is not greater than b. Program ends
+4.  Program ends
+
+
+
+Answer: a is not greater than b. Program ends

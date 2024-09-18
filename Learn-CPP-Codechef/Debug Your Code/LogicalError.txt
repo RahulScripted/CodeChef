@@ -1,0 +1,12 @@
+A logical error is an error in a program that occurs when the code compiles and runs without producing any error messages, but it does not produce the expected or desired output.
+
+
+
+Which errors are more difficult to solve?
+
+1.  Syntax Error
+2.  Logical Error
+3.  Runtime Error
+
+
+Answer: Logical Error

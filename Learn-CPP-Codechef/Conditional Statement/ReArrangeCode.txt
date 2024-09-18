@@ -1,0 +1,44 @@
+Rearrange this code so that it is correct.
+
+
+            <----------- Before ----------->
+
+#include <iostream>
+using namespace std;
+int main() {
+    int binary ;
+    cin >> binary ;
+    case 0:
+        break;
+    cout << "Zero";
+    switch (binary) {
+    case 1:
+        cout << "One";
+        break;
+    default:
+        cout << "Not valid";
+    }
+    return 0;
+}
+
+
+            <----------- After ----------->
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int binary ;
+    cin >> binary ;
+    switch (binary) {
+        case 0:
+            cout << "Zero";
+            break;
+        case 1:
+            cout << "One";
+            break;
+        default:
+            cout << "Not valid";
+    }
+    return 0;
+}

@@ -1,0 +1,7 @@
+What led to a compilation / syntax error here?
+
+1.  Invalid Variable Name
+2.  ';' is missing in the cout line
+
+
+Answer: ';' is missing in the cout line

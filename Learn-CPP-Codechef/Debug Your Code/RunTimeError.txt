@@ -1,0 +1,36 @@
+Runtime Error: Generally caused by accessing a negative or unreachable index of a string or an array or dividing a number by 0.
+
+
+        <--------- Given Code ----------->
+
+
+#include <iostream>
+
+using namespace std;
+int main()
+{
+    int a,b;
+    cin>>a>>b;
+    
+    // if(b==0) {
+    //     cout<<"infinity\n";
+    // }
+    // else {
+        cout<<a/b<<"\n";
+    // }
+    
+}
+
+
+        <--------- Right Code ----------->
+
+#include <iostream>
+using namespace std;
+
+int main(){
+    int a,b;
+    cin>>a>>b;
+    
+    if(b==0) cout<<"infinity\n";
+    else cout<<a/b<<"\n";
+}

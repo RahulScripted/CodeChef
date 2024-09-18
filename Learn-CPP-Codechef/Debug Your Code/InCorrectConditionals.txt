@@ -1,0 +1,34 @@
+Incorrect conditionals are one of the most common types of logical errors, which can be seen while using conditional statements like if-else and loops.
+
+
+
+        <--------- Given Code ----------->
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int n;
+    cin>>n;
+    if(n<5)
+    {
+        cout<<"the number is greater than 5";
+    }
+    else
+    {
+        cout<<"the number is smaller than or equal to 5";
+    }    
+}
+
+        <--------- Right Code ----------->
+
+#include <iostream>
+using namespace std;
+
+int main(){
+    int n;
+    cin>>n;
+    if(n<=5) cout<<"the number is smaller than or equal to 5";
+    else cout<<"the number is greater than 5";
+}

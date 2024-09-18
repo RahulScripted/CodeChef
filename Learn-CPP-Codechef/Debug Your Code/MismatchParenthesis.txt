@@ -1,0 +1,34 @@
+We have given a program to check whether a given number is odd or even. Debug the code the solve the problem.
+
+
+        <--------- Given Code ----------->
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int n;
+    n = 5;
+    if (n % 2 == 1)
+    {
+        cout << "Odd";
+    }
+    else
+    {
+        cout << "Even";
+    )
+}
+
+
+        <--------- Right Code ----------->
+
+#include <iostream>
+using namespace std;
+
+int main(){
+    int n;
+    n = 5;
+    if (n % 2 == 1) cout << "Odd";
+    else cout << "Even";
+}

@@ -1,0 +1,22 @@
+What will be the output of this code?
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a = 10;
+    int b = -23;
+
+    if (a > b) cout << "a is greater. ";
+    cout << "Program ends";
+}
+
+
+
+Select one of the following options.
+
+1.  a is greater. Program ends
+2.  Program ends
+
+
+Answer: a is greater. Program ends

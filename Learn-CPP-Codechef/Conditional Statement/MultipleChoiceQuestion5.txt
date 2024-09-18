@@ -1,0 +1,26 @@
+What will be the output of this code?
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a = 20;
+    int b = 10;
+
+    if (a > b) cout << "a is greater. ";
+    if (a > 0) cout << "a is positive. ";
+    else cout << "a is not positive. ";
+    cout << "Program ends";
+}
+
+
+
+Select one of the following options.
+
+1.  a is greater. a is not positive. Program ends
+2.  a is greater. a is positive. Program ends
+3.  a is greater. Program ends
+
+
+
+Answer: a is greater. a is positive. Program ends

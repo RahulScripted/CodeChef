@@ -1,0 +1,31 @@
+What is the expected output of the following code
+
+#include <iostream>
+using namespace std;
+
+int inner_function(int x, int y) {
+    return x * y;
+}
+
+int outer_function(int x) {
+    return inner_function(x, x);
+}
+
+int main() {
+    int output = outer_function(5);
+    cout << output << endl; 
+}
+
+
+
+
+
+Select one of the following options
+
+1.  Compilation error
+2.  Infinity - the loop will run forever
+3.  5
+4.  25
+
+
+Answer: 25

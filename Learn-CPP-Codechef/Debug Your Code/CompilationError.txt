@@ -1,0 +1,25 @@
+How do you identify the 'Compilation error'?
+
+
+        <--------- Given Code ----------->
+
+#include <iostream>
+using namespace std;
+
+int main(){
+    Int a = 5;
+    Int b = 3;
+    cout >> a * b;
+}
+
+
+        <--------- Right Code ----------->
+
+#include <iostream>
+using namespace std;
+
+int main(){
+    int a = 5;
+    int b = 3;
+    cout << a * b;
+}

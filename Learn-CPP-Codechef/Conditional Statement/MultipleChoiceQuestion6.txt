@@ -1,0 +1,27 @@
+What will be the output of this code?
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int a = 5;
+    int b = 10;
+
+    if (a >= b) cout << "a is greater or equal to. ";
+    if (a == 0) cout < "a is 0. ";
+    if (a <= 5) cout << "a is not more than 5. ";
+    cout << "Program ends";
+}
+
+
+
+Select one of the following options.
+
+1.  a is greater or equal to. Program ends
+2.  a is greater or equal to. a is 0. Program ends
+3.  a is not more than 5. Program ends
+4.  a is greater or equal to. a is 0. a is not more than 5. Program ends
+
+
+
+Answer: a is not more than 5. Program ends
