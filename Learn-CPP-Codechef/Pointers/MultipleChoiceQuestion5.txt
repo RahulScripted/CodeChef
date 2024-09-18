@@ -1,0 +1,13 @@
+What is the primary advantage of Call by Reference over Call by Value?
+
+
+
+Select the correct option.
+
+1.  Both are same.
+2.  It consumes less memory
+3.  It allows for direct modification of original variables
+4.  It eliminates the need for pointers
+
+
+Answer: It allows for direct modification of original variables

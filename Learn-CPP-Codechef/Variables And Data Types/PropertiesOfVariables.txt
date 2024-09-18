@@ -1,0 +1,27 @@
+There is some code written in the editor to print the number 8. But the variable name is not following the rule. Can you spot the mistake and fix it?
+
+
+
+            <------------ Before ------------>
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Fix the variable name to make the code work
+
+    int 1st_number = 8;
+    cout<<1st_number<<endl;
+
+}
+            <------------ After ------------>
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Fix the variable name to make the code work
+
+    int number = 8;
+    cout<<number<<endl;
+
+}

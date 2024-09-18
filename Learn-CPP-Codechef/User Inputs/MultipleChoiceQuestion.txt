@@ -1,0 +1,20 @@
+What will be the output of this code,
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    string s;
+    cin >> s; 
+    cout << "Your name is: " << s;
+}
+
+
+Select one of the following options.
+
+1.  Chef
+2.  Your name is: Chef
+3.  Your name is:Chef
+
+
+Answer: Your name is: Chef

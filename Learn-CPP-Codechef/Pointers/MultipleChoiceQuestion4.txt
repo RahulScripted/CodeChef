@@ -1,0 +1,22 @@
+What is the output of the following code?
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int x = 10;
+    int *p = &x;
+    cout << *p;
+    return 0;
+}
+
+
+Select the correct option.
+
+1.  10
+2.  Memory address of x
+3.  Garbage value
+4.  Compilation Error
+
+
+Answer: 10

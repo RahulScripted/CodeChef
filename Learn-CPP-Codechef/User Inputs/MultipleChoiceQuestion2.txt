@@ -1,0 +1,22 @@
+What will be the output of this code,
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int n;
+    cin >> n; 
+    cout << "Your number is: " << n;  
+}
+
+
+Select one of the following options.
+
+1.  Your number is: 78.92
+2.  Your number is: 79
+3.  Your number is: 78
+4.  Compilation Error
+
+
+
+Answer: Your number is: 78

@@ -1,0 +1,23 @@
+            <---------- Before ------------>
+
+#include <iostream>
+using namespace std;
+int main() {
+  int b = a;
+  int c = b + 2;
+  int a = 2;
+  cout << c;
+}
+
+
+
+            <---------- After ------------>
+
+#include <iostream>
+using namespace std;
+int main() {
+  int a = 2;
+  int b = a;
+  int c = b + 2;
+  cout << c;
+}

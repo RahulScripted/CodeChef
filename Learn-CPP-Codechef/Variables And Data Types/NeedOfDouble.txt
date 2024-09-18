@@ -1,0 +1,27 @@
+Change the datatype of the variable to double to accurately store the number
+
+
+
+            <------------ Before ------------>
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    float num = 9152345.6789118;
+    cout<<num<<endl;
+    cout<<fixed<<num<<endl;
+    cout<<setprecision(9)<<num<<endl;
+}
+
+            <------------ Before ------------>
+            
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    double num = 9152345.6789118;
+    cout<<num<<endl;
+    cout<<fixed<<num<<endl;
+    cout<<setprecision(9)<<num<<endl;
+}

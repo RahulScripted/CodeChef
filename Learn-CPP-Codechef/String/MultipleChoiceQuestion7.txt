@@ -1,0 +1,21 @@
+What will be the output of this code?
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    string s = "abc";
+    s[2] = 'd';
+    cout << s ;
+}
+
+
+
+Select one of the following options.
+
+1.  abd
+2.  abc
+3.  abcd
+
+
+Answer: abd

@@ -1,0 +1,21 @@
+What will be the output of this code?
+
+#include <bits/stdc++.h>
+using namespace std;
+ 
+int main () {
+    string x = "hello";
+    x[0] = 'j';
+    cout << x;
+}
+
+
+Select one of the following options.
+
+1.  hello
+2.  jhello
+3.  jello
+4.  hjello
+
+
+Answer: jello

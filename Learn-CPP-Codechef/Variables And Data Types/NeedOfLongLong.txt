@@ -1,0 +1,22 @@
+Change the datatype to long long to properly store the number
+
+
+            <---------- Before ----------->
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int num = 123456789012345;
+    cout<<num<<endl;
+}
+
+            <---------- Before ----------->
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    long long num = 123456789012345;
+    cout<<num<<endl;
+}

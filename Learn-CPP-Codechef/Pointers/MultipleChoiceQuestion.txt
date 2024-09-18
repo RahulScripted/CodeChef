@@ -1,0 +1,18 @@
+int x = 10;
+int *p = &x;
+*p = *p + 5;
+
+
+Select the correct option.
+
+1.  Adds 5 to the memory address stored in p
+
+2.  Adds 5 to the value stored at the memory address stored in p
+
+3.  Changes the memory address stored in p
+
+4.  Multiplies the value stored at the memory address stored in p by 5
+
+
+
+Answer: Adds 5 to the value stored at the memory address stored in p

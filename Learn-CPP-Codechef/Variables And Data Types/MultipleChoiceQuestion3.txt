@@ -1,0 +1,24 @@
+What will be the output of this code?
+
+#include <iostream>
+using namespace std;
+
+int main() {
+  int x = 5 ;
+  int y = 2 ;
+
+  int sum = x + y ;
+  cout << sum ; 
+}
+
+
+
+Select one of the following options.
+
+1.  2 5
+2.  5 2
+3.  7
+4.  Compile Error
+
+
+Answer: 7

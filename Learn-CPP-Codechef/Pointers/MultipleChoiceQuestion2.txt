@@ -1,0 +1,12 @@
+How do you declare a pointer to an integer variable?
+
+
+Select one of the following options.
+
+1.  int &ptr;
+2.  int ptr;
+3.  int *ptr;
+
+
+
+Answer: int *ptr;

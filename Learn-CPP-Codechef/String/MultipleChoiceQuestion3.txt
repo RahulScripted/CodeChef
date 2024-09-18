@@ -1,0 +1,21 @@
+What will be the output of this code?
+
+#include <iostream>
+using namespace std;
+ 
+int main () {
+    string num1 = "2";
+    string num2 = "3";
+    cout << num1 + num2;
+}
+
+
+Select one of the following options.
+
+1.  23
+2.  2 3
+3.  5
+4.  num1 + num2
+
+
+Answer: 23

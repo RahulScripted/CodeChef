@@ -1,0 +1,12 @@
+Suppose you have a string variable called name. How would you output its length?
+
+
+Select one of the following options.
+
+1.  cout << name.length;
+2.  cout << length(name);
+3.  cout << name.length()
+4.  cout << name.length();
+
+
+Answer: cout << name.length();

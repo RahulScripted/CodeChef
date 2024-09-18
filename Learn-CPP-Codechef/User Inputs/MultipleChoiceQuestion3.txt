@@ -1,0 +1,21 @@
+What will be the output of this code,
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    cin >> n; 
+    cout <<n+1;  
+}
+
+
+Select one of the following options.
+
+1.  128
+2.  129
+3.  127
+4.  Compilation Error
+
+
+
+Answer: Compilation Error

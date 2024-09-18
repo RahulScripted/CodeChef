@@ -1,0 +1,32 @@
+Which of the following is the correct version of swap() function to swap two numbers using Pointers.?
+
+Option 1:
+void swap(int *ptr1, int *ptr2) {
+    int temp = *ptr1;
+    *ptr1 = *ptr2;
+    *ptr2 = temp;
+}
+
+Option 2:
+void swap(int *ptr1, int *ptr2) {
+    int temp = *ptr1;
+    *ptr1 = *ptr2;
+    *ptr1 = temp;
+}
+
+Option 3:
+void swap(int *ptr1, int *ptr2) {
+    int temp = *ptr1;
+    *ptr2 = temp;
+}
+
+
+
+Select one of the following options.
+
+1.  Option 1
+2.  Option 2
+3.  Option 3
+
+
+Answer: Option 1
