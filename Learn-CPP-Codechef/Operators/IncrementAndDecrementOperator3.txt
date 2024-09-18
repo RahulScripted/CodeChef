@@ -1,0 +1,15 @@
+What is the output of the following code:
+
+float x = 4.9;
+cout<<++x<<" ";
+
+
+Choose the correct option
+
+1.  5.0
+2.  5.9
+3.  4.9
+4.  4.0
+
+
+Answer: 5.9

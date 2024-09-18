@@ -1,0 +1,24 @@
+How many times will "C++" be printed by this code?
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+  for (int i = 0 ; i <= 5 ; i = i + 2) {
+    if(i == 4)
+       break;
+    cout << "C++"<< endl;
+  }  
+}
+
+
+Select one of the following options.
+
+1.  1
+2.  2
+3.  3
+4.  4
+
+
+Answer: 2

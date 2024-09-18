@@ -1,0 +1,18 @@
+What will be the output of the following code?
+
+int x = 5;
+int y = 3;
+int z = 2;
+int result = x + y * z / y
+cout<<result<<endl;
+
+
+
+Select one of the following options.
+1.  15
+2.  7
+3.  7.0
+4.  5
+
+
+Answer: 7

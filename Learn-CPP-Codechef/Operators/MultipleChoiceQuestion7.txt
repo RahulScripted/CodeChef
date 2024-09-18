@@ -1,0 +1,15 @@
+What will the following code output?
+
+int x = 5;
+cout<<(!(x > 5 && x < 10));
+
+
+Select one of the following options.
+
+1.  1
+2.  0 
+3.  True
+4.  False
+
+
+Answer: 1

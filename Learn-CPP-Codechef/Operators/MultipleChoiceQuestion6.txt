@@ -1,0 +1,12 @@
+Which of the following expressions evaluates to False?
+
+
+Select the correct option
+
+1.  !(10 > 5 && 5 < 3)
+2.  10 || 0
+3.  1 && 0
+4.  10 && 5
+
+
+Answer: 1 && 0

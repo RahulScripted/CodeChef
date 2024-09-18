@@ -1,0 +1,20 @@
+What will be the output of this code?
+
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "Add" << 2 << " to" << 3;
+}
+
+
+Select one of the following options.
+
+1.  Add2to3
+2.  Add 2 to 3
+3.  Add2 to3
+4.  Add2to 3
+
+
+
+Answer: Add2 to3

@@ -1,0 +1,9 @@
+Which line of code will output the sum of 7 and 19?
+
+1.  Cout << 7 + 19
+2.  cout << 7 + 19;
+3.  cout << "7 + 19";
+4.  cout << 7 + 19
+
+
+Answer: cout << 7 + 19;

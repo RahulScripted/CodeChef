@@ -1,0 +1,17 @@
+What will the following code output?
+
+int a = 5;
+int b = 3;
+int result = a++ - --b + a--;
+cout<<result;
+
+
+Select one of the following options.
+
+1.  8
+2.  9
+3.  10
+4.  11
+
+
+Answer: 9

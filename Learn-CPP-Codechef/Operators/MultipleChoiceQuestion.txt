@@ -1,0 +1,16 @@
+What will be the value of x after the following statement?
+
+int x = 7;
+x *= 3;
+cout<<x;
+
+
+Select the correct option.
+
+1.  10
+2.  4
+3.  15
+4.  21
+
+
+Answer: 21

@@ -1,0 +1,14 @@
+What will be the result of the following code
+
+cout<<((5 + 3) < (2 * 5));
+
+
+Select the correct option.
+
+1.  1
+2.  0 
+3.  true
+4.  compilation error
+
+
+Answer: 1

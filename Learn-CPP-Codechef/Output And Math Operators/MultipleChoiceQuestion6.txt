@@ -1,0 +1,34 @@
+What is the difference between
+
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << 12;
+  cout << 11;
+}
+
+and
+
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << 12;
+
+  cout << 11;
+}
+
+
+
+Select one of the options below.
+
+1.  The first code will have outputs on the same line, and the second code will output in separate lines.
+
+2.  The two codes are equivalent.
+
+3.  The second code is wrong, and will not compile.
+
+
+
+Answer: The two codes are equivalent.

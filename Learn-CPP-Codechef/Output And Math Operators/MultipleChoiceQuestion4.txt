@@ -1,0 +1,20 @@
+What will be the output of this code?
+
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << 82 << 2 << " " << 3;
+}
+
+
+Select one of the following options.
+
+1.  82 2  3
+2.  8223
+3.  822 3
+4.  822" "3
+
+
+
+Answer: 822 3

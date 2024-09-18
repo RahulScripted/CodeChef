@@ -1,0 +1,23 @@
+What is the output of this code?
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a = 1;
+    int b = 4;
+    while ( a != b ) {
+        cout << b << " ";
+        b = b+1;
+    } 
+}
+
+
+Select one of the following options.
+
+1.  1 2 3 4
+2.  4 3 2
+3.  4 3 2 1
+4.  Keeps printing all integers from 4 to infinity.
+
+Answer: Keeps printing all integers from 4 to infinity.

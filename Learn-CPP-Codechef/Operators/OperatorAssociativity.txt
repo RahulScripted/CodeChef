@@ -1,0 +1,19 @@
+What will be the output of the following code?
+
+int a = 2;
+int b = 3;
+int c = 4;
+a = b = c;
+cout<<a<<endl;
+
+
+
+Select one of the following options.
+
+1.  2
+2.  3
+3.  4
+4.  1
+
+
+Answer: 4

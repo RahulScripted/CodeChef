@@ -1,0 +1,17 @@
+            <---------- Before ------------>
+
+int main() {
+#include <iostream>
+using namespace std;
+}
+  cout << 12 + 7;
+
+
+
+            <---------- After ------------>
+
+#include <iostream>
+using namespace std;
+int main() {
+  cout << 12 + 7;
+}

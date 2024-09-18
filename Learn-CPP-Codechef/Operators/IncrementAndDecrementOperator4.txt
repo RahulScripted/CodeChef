@@ -1,0 +1,15 @@
+What is the output of the following code:
+
+char ch = 'g';
+cout<<--ch<<" ";
+
+
+Choose the correct option
+
+1.  i
+2.  h
+3.  g
+4.  f
+
+
+Answer: f

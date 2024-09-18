@@ -1,0 +1,17 @@
+What would be the output of the code below?
+
+int a = 10;
+int b = 2;
+a /= b;
+cout<<a;
+
+
+Select the correct option.
+
+1.  10
+2.  4
+3.  5
+4.  21
+
+
+Answer: 5
