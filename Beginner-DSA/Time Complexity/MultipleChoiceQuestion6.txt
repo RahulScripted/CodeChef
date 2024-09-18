@@ -1,0 +1,22 @@
+What is the time complexity of this code?
+
+```cpp
+
+function f(a):
+    return a + 18
+
+print(f(n))
+
+```
+
+
+Select the correct answer
+
+1.  O(1)
+2.  O(n)
+3.  O(n^2)
+4.  O(n + 18)
+
+
+
+Answer: O(1)

@@ -1,0 +1,22 @@
+Let's look at another interesting example:
+
+```cpp
+
+for i = 1 to n
+    j = 0
+    while j < n:
+        j += i 
+        print(i + j)
+
+```
+
+
+Select the correct answer
+
+1.  O(n)
+2.  O(n * log(n))
+3.  O(n^3)
+4.  O(n^2)
+
+
+Answer: O(n * log(n))

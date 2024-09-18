@@ -1,0 +1,25 @@
+What is the time complexity of this code?
+
+```cpp
+
+def f(a):
+    if a == 0:
+        return 9
+    else:
+        return f(a // 2)
+
+print(f(n))
+
+```
+
+
+Select the correct answer
+
+1.  O(1)
+2.  O(n)
+3.  O(log(n))
+4.  O(n * log(n))
+
+
+
+Answer: O(log(n))

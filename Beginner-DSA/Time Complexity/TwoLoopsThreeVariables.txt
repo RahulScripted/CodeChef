@@ -1,0 +1,24 @@
+What is the time complexity of this code?
+
+```cpp
+
+for i = 1 to n
+	for j = 1 to m
+		print(i + j)
+
+	for l = 1 to k
+		print(i + l)
+
+```
+
+
+Select the correct answer
+
+1.  O(nm+nk)
+2.  O(nm + mk)
+3.  O(n + m + k)
+4.  O(nmk)
+
+
+
+Answer: O(nm+nk)

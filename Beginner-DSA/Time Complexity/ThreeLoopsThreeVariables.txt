@@ -1,0 +1,21 @@
+What is the time complexity of this code?
+
+```cpp
+
+for i = 1 to (n / 10)
+	for j = 1 to (2 * m)
+		for l = 1 to k
+			print((i * j) + l)
+
+```
+
+
+Select the correct answer
+
+1.  O(n+mk)
+2.  O(nm + k)
+3.  O(n + m + k)
+4.  O(nmk)
+
+
+Answer: O(nmk)

@@ -1,0 +1,9 @@
+What will be the final time complexity of the given algorithm?
+
+1.  O(1)
+2.  O(N) + O(N)
+3.  2 * O(N)
+4.  O(N)
+
+
+Answer: O(N)

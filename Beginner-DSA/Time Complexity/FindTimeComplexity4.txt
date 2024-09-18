@@ -1,0 +1,9 @@
+What will be the final time complexity of the given algorithm?
+
+
+1.  O(N)
+2.  O(N ^ 2)
+3.  O(N ^ 3)
+
+
+Answer: O(N ^ 3)

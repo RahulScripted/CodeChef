@@ -1,0 +1,20 @@
+What is the time complexity of this code?
+
+```cpp
+
+for i = 1 to n
+	for j = 1 to n / 2
+		print(i + j)
+
+```
+
+Select the correct answer
+
+1.  O(1)
+2.  O(n)
+3.  O(n + n/2)
+4.  O(n^2)
+
+
+
+Answer: O(n^2)

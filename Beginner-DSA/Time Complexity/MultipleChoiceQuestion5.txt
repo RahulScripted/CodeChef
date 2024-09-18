@@ -1,0 +1,20 @@
+What is the time complexity of this code?
+
+```cpp
+
+while n > 0:
+    print(n)
+    n //= 3
+
+```
+
+
+Select the correct answer
+
+1.  O(n)
+2.  O(n * log(n))
+3.  O(log(n))
+4.  O(sqrt(n))
+
+
+Answer: O(log(n))

@@ -1,0 +1,8 @@
+The constraints section generally look like this: 1 ≤ N ≤ 10 ^ 5. Select one of the following.
+
+1.  10 ^ 5
+2.  10 ^ 6
+3.  10 ^ 7
+
+
+Answer: 10 ^ 6

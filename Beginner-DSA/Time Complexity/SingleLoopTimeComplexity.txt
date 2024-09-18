@@ -1,0 +1,18 @@
+What is the time complexity of this code?
+
+```cpp
+
+for i = 0 to n
+    print(i)
+
+```
+
+Select the correct answer
+
+1.  O(1)
+2.  O(n)
+3.  O(m)
+4.  O(n^2)
+
+
+Answer: O(n)

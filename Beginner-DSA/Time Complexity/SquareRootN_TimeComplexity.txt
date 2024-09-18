@@ -1,0 +1,21 @@
+```cpp
+
+i = 1
+while i * i <= n:
+    print(i)
+    i += 1
+
+```
+
+
+
+Select the correct answer
+
+1.  O(n)
+2.  O(n * sqrt(n))
+3.  O(n/2)
+4.  O(n * log(n))
+
+
+
+Answer: O(n * sqrt(n))

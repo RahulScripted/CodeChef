@@ -1,0 +1,28 @@
+What is the time complexity of this code?
+
+```cpp
+
+for i = 1 to n:
+   j = 1
+   while j * j <= m:
+      print(i + j)
+      j += 1
+
+for i = 1 to m:
+   j = 1
+   while j * j <= n:
+      print(i + j)
+      j += 1
+
+```
+
+
+Select the correct answer
+
+1.  O(n * sqrt(n) * sqrt(m))
+2.  O(n * (sqrt(n) +  sqrt(m)))
+3.  O(n + sqrt(m))
+4.  O((n * sqrt(m)) + (m * sqrt(n)))
+
+
+Answer: O((n * sqrt(m)) + (m * sqrt(n)))

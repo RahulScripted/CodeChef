@@ -1,0 +1,23 @@
+What is the time complexity of this code?
+
+```cpp
+
+for i = 1 to n:
+    j = 1
+    while j <= n:
+        print(i + j)
+        j *= 2
+
+```
+
+
+Select the correct answer
+
+1.  O(log(n))
+2.  O(n + log(n))
+3.  O(n * log(n))
+4.  O(n)
+
+
+
+Answer: O(n * log(n))

@@ -1,0 +1,8 @@
+How do we denote the worst case time complexity of an algorithm?
+
+1.  Big Theta Notation
+2.  Big O notation
+3.  Big Omega Notation
+
+
+Answer: Big O notation

@@ -1,0 +1,21 @@
+What is the time complexity of this code?
+
+```cpp
+
+for i = 1 to (n / 10)
+	for j = 1 to (2 * m)
+		print(i + j)
+
+```
+
+
+Select the correct answer
+
+1.  O(n+m)
+2.  O(n)
+3.  O(n * m)
+4.  O(n^2)
+
+
+
+Answer: O(n * m)

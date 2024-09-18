@@ -1,0 +1,27 @@
+What is the time complexity of this code?
+
+```cpp
+
+i = 1
+while i <= n:
+    print(i)
+    i *= 2
+
+j = 1
+while j <= n:
+    print(j)
+    j = j + 1
+
+```
+
+
+Select the correct answer
+
+1.  O(log n)
+2.  O(sqrt(n))
+3.  O(n/2)
+4.  O(n)
+
+
+
+Answer: O(n)

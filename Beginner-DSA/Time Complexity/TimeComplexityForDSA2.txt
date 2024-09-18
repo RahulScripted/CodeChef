@@ -1,0 +1,17 @@
+Say you calculate the sum of numbers from 1 to N using the following algorithm
+
+```cpp
+
+sum = 0
+for i = 1 to N
+    sum += i
+print(sum)
+
+```
+and the constraints on N are: 1 ≤ N ≤ 100. Will the above algorithm run within 1 second? Select one of the following.
+
+1.  Yes
+2.  No
+
+
+Answer: Yes. The time complexity of the given algorithm is O(N), which is N operations for any input N. When N can be at most 100, the total operations will also be 100. This can easily run within a second as the most computers support up-to 10 ^ 8 operations or 100 million operations within a second.
