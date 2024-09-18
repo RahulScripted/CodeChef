@@ -1,0 +1,12 @@
+Which function is used to lock a mutex in C++ multithreading? Select the correct option.
+
+1.  lock_mutex()
+
+2.  try_lock()
+
+3.  unlock_mutex()
+
+4.  lock()
+
+
+Answer: 4.  lock()

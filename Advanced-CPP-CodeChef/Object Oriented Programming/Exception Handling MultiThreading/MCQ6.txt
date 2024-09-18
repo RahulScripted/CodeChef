@@ -1,0 +1,13 @@
+What is the scope of variables declared inside an inner try block in a nested try-catch structure? Select the correct option.
+
+1.  They are global and can be accessed from anywhere in the program.
+
+2.  They are local to the inner try block and cannot be accessed in the outer try block.
+
+3.  They are local to the inner try block but can be accessed in the outer try block.
+
+4.  Their scope depends on whether they are declared using the static keyword.
+
+
+
+Answer: 2.  They are local to the inner try block and cannot be accessed in the outer try block.

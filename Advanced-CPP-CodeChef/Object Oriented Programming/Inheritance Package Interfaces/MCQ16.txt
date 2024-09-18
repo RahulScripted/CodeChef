@@ -1,0 +1,13 @@
+In C++, what is the significance of the scope resolution operator :: in the context of nested classes? Select the correct option.
+
+1.  It creates a new class.
+
+2.  It defines a new namespace.
+
+3.  It specifies access to members and nested classes within a class.
+
+4.  It performs typecasting operations.
+
+
+
+Answer: 3.  It specifies access to members and nested classes within a class.

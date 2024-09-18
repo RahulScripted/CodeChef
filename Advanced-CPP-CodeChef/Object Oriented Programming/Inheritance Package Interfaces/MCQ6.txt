@@ -1,0 +1,13 @@
+What is a limitation of using friend functions in C++? Select the correct option.
+
+1.  Friend functions can only access public members of a class.
+
+2.  Friend functions can access private and protected members, but they cannot modify them.
+
+3.  Friend functions provide direct access to private members, which can reduce the level of data hiding and increase the risk of unintended changes to the class's internal state.
+
+4.  Friend functions cannot be declared inside a class.
+
+
+
+Answer: 3.  Friend functions provide direct access to private members, which can reduce the level of data hiding and increase the risk of unintended changes to the class's internal state.

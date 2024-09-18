@@ -1,0 +1,14 @@
+When using multiple catch clauses in C++, which order should they be placed in? Select the correct option.
+
+1.  Catch more specific exceptions before catching more general exceptions.
+
+2.  Catch more general exceptions before catching more specific exceptions.
+
+3.  The order of catch clauses doesn't matter; any order is fine.
+
+4.  Catch clauses should always be ordered alphabetically by exception type.
+
+
+
+
+Answer: 1.  Catch more specific exceptions before catching more general exceptions.

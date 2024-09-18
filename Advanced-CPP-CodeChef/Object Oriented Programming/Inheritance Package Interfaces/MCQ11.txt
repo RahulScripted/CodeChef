@@ -1,0 +1,13 @@
+In a hierarchy of classes, if a derived class does not override a virtual method from the base class, what happens when that method is called on an object of the derived class? Select the correct option.
+
+1.  The program will not compile.
+
+2.  The base class's implementation of the method is called.
+
+3.  The derived class's implementation of the method is called.
+
+4.  It depends on the access modifiers used in the classes.
+
+
+
+Answer: 2.  The base class's implementation of the method is called.

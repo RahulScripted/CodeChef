@@ -1,0 +1,13 @@
+What is the purpose of the what() method in a user-defined exception class? Select the correct option.
+
+1.  To throw exceptions.
+
+2.  To terminate the program.
+
+3.  To provide an error message associated with the exception.
+
+4.  To define a new exception class.
+
+
+
+Answer: 3.  To provide an error message associated with the exception.

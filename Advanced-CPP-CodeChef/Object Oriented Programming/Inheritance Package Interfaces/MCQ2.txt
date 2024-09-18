@@ -1,0 +1,17 @@
+Which of the following scenarios can lead to ambiguity in multiple inheritance? Select one or more options.
+
+1.  Inheriting from unrelated base classes.
+
+2.  Inheriting from base classes that don't have any common members or functions.
+
+3.  Inheriting from base classes that have a common base class.
+
+4.  Inheriting from base classes using private inheritance.
+
+
+
+Answers: 
+
+1.  Inheriting from unrelated base classes.
+
+3.  Inheriting from base classes that have a common base class.

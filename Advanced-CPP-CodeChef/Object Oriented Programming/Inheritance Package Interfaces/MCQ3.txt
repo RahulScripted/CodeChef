@@ -1,0 +1,14 @@
+How is ambiguity resolved in C++ when a derived class inherits from multiple base classes with the same member function names? Select the correct option.
+
+1.  The compiler automatically selects one of the base class functions.
+
+2.  The programmer must explicitly specify which base class function to use using scope resolution.
+
+3.  Ambiguity cannot be resolved; it results in a compilation error.
+
+4.  The base class functions are renamed in the derived class.
+
+
+
+
+Answer: 2.  The programmer must explicitly specify which base class function to use using scope resolution.

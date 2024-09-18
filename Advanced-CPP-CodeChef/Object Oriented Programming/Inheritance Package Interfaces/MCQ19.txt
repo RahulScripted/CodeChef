@@ -1,0 +1,13 @@
+What is the main advantage of upcasting in C++? Select the correct option.
+
+1.  It allows you to access private members of a derived class.
+
+2.  It simplifies the code and allows you to work with objects of different derived classes uniformly.
+
+3.  It ensures type safety during object conversions.
+
+4.  It improves the performance of the program.
+
+
+
+Answer: 2.  It simplifies the code and allows you to work with objects of different derived classes uniformly.

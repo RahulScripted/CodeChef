@@ -1,0 +1,17 @@
+In C++, when passing an object to a function by value: Select one or more options.
+
+1.  The function receives a copy of the object.
+
+2.  The original object is modified inside the function.
+
+3.  Any changes made to the object inside the function affect the original object.
+
+4.  The function cannot access private members of the object.
+
+
+
+Answers: 
+
+1.  The function receives a copy of the object.
+
+4.  The function cannot access private members of the object.

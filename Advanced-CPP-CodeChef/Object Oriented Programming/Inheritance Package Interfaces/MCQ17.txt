@@ -1,0 +1,13 @@
+Which keyword is used to define a nested class within an enclosing class in C++? Select the correct option.
+
+1.  inner
+
+2.  outer
+
+3.  nested
+
+4.  class
+
+
+
+Answer: 4.  class

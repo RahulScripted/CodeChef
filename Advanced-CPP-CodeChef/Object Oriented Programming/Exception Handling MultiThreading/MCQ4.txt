@@ -1,0 +1,13 @@
+What happens if you have multiple catch clauses, but none of them match the type of the thrown exception in C++? Select the correct option.
+
+1.  The program crashes.
+
+2.  The catch clause with the most general exception type is executed.
+
+3.  An exception is thrown to the caller function.
+
+4.  The program continues to run without handling the exception.
+
+
+
+Answer: 4.  The program continues to run without handling the exception.

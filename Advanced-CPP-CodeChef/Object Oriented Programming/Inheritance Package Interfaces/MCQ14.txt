@@ -1,0 +1,13 @@
+What is the purpose of using a virtual base class in a class hierarchy? Select the correct option.
+
+1.  To make all member functions in the derived classes virtual.
+
+2.  To provide concrete (non-abstract) implementations for derived classes.
+
+3.  To ensure that the derived classes do not have constructors.
+
+4.  To resolve ambiguity in multiple inheritance situations.
+
+
+
+Answer: 4.  To resolve ambiguity in multiple inheritance situations.

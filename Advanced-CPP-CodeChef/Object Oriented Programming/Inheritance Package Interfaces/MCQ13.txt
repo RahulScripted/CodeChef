@@ -1,0 +1,13 @@
+What is the primary purpose of a pure virtual function in an abstract class? Select the correct option.
+
+1.  To provide a common implementation for derived classes.
+
+2.  To declare a function that has no implementation in the abstract class but must be implemented by derived classes.
+
+3.  To make the class non-abstract.
+
+4.  To create instances of the abstract class.
+
+
+
+Answer: 2.  To declare a function that has no implementation in the abstract class but must be implemented by derived classes.

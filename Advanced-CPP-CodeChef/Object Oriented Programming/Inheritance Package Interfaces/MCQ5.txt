@@ -1,0 +1,13 @@
+In C++, what is a potential drawback of passing objects by value to functions? Select one or more options.
+
+1.  It creates a copy of the object, which may be inefficient for large objects.
+
+2.  It allows the function to modify the original object directly.
+
+3.  It ensures that changes made inside the function affect the original object.
+
+4.  It is not allowed in C++.
+
+
+
+Answer: 1.  It creates a copy of the object, which may be inefficient for large objects.

@@ -1,0 +1,9 @@
+What happens if you attempt to overload an operator without defining its behavior? Select the correct option.
+
+1.  It will cause a compilation error.
+2.  It will use the default behavior of the operator.
+3.  It will result in a runtime error.
+4.  It will produce a warning message.
+
+
+Answer: 1.  It will cause a compilation error.

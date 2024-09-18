@@ -1,0 +1,13 @@
+In a nested try-catch structure, which block is evaluated first when an exception occurs? Select the correct option.
+
+1.  The outermost try block.
+
+2.  The innermost try block.
+
+3.  The block where the exception occurred.
+
+4.  The catch block associated with the innermost try block.
+
+
+
+Answer: 4.  The catch block associated with the innermost try block.

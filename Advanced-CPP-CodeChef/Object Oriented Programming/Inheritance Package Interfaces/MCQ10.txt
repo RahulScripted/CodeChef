@@ -1,0 +1,13 @@
+What is the main advantage of function overloading in C++? Select the correct option.
+
+1.  It allows you to define multiple functions with the same name for clarity.
+
+2.  It allows you to reuse the same function name for different purposes.
+
+3.  It improves the performance of the program.
+
+4.  It simplifies the C++ syntax.
+
+
+
+Answer: 1.  It allows you to define multiple functions with the same name for clarity.

@@ -1,0 +1,13 @@
+What is the primary advantage of using aggregation in C++? Select the correct option.
+
+1.  It allows for strong encapsulation of private data members.
+
+2.  It simplifies the process of inheritance.
+
+3.  It enables the creation of complex objects by combining simpler objects.
+
+4.  It provides direct access to private members of aggregated objects.
+
+
+
+Answer: 3.  It enables the creation of complex objects by combining simpler objects.

@@ -1,0 +1,13 @@
+What happens if a derived class does not provide an implementation for a virtual function declared in the base class? Select the correct option.
+
+1.  The program will not compile.
+
+2.  The base class implementation will be used.
+
+3.  The program will throw an exception.
+
+4.  The derived class will inherit the implementation from the base class.
+
+
+
+Answer: 2.  The base class implementation will be used.

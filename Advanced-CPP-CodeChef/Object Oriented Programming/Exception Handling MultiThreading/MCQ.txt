@@ -1,0 +1,13 @@
+Which of the following is true about exception handling in C++? Select the correct option.
+
+1.  All exceptions must be caught within the same function where they are thrown.
+
+2.  Exceptions can be caught in a different function from where they are thrown.
+
+3.  C++ does not support exception handling.
+
+4.  Exception handling can only be done for standard library exceptions.
+
+
+
+Answer: 2.  Exceptions can be caught in a different function from where they are thrown.

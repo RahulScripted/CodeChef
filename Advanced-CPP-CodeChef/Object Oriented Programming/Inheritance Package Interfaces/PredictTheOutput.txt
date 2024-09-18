@@ -1,0 +1,64 @@
+Predict the output of this code.
+
+#include <iostream>
+
+class A {
+public:
+    virtual void foo() {
+        std::cout << "A::foo()" << std::endl;
+    }
+};
+
+class B : public A {
+public:
+    void foo() {
+        std::cout << "B::foo()" << std::endl;
+    }
+};
+
+int main() {
+    A obj1;
+    B obj2;
+
+    A* ptr1 = &obj1;
+    A* ptr2 = &obj2;
+
+    obj1.foo();
+    obj2.foo();
+    ptr1->foo();
+    ptr2->foo();
+
+    return 0;
+}
+
+
+Select the correct option.
+
+1.  A::foo()
+    B::foo()
+    A::foo()
+    B::foo()
+
+2.  A::foo()
+    A::foo()
+    A::foo()
+    A::foo()
+
+3.  B::foo()
+    B::foo()
+    B::foo()
+    B::foo()
+
+4.  B::foo()
+    A::foo()
+    B::foo()
+    A::foo()
+
+
+
+Answer: 
+
+1.  A::foo()
+    B::foo()
+    A::foo()
+    B::foo()

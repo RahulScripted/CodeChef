@@ -1,0 +1,13 @@
+What is the primary purpose of using multithreading in a program? Select the correct option.
+
+1.  To make the program run slower
+
+2.  To consume more memory
+
+3.  To improve program performance by utilizing multiple CPU cores
+
+4.  To simplify program logic
+
+
+
+Answer: 3.  To improve program performance by utilizing multiple CPU cores

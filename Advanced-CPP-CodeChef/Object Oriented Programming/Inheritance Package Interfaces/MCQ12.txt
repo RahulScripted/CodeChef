@@ -1,0 +1,13 @@
+In method overriding, which of the following must match between the base class method and the derived class method? Select the correct option.
+
+1.  Method name.
+
+2.  Return type.
+
+3.  Method parameters.
+
+4.  All of the above.
+
+
+
+Answer: 4.  All of the above.

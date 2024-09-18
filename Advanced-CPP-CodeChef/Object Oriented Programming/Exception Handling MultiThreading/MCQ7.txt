@@ -1,0 +1,12 @@
+What is the purpose of the join() method in C++ multithreading? Select the correct option.
+
+1.  To terminate a thread
+
+2.  To create a new thread
+
+3.  To wait for a thread to finish its execution
+
+4.  To synchronize thread priorities
+
+
+Answer: 3.  To wait for a thread to finish its execution

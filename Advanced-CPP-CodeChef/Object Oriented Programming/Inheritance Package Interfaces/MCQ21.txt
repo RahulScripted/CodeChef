@@ -1,0 +1,13 @@
+Upcasting is often used in C++ in the context of: Select the correct option.
+
+1.  Operator overloading
+
+2.  Exception handling
+
+3.  Polymorphism and inheritance
+
+4.  Memory management
+
+
+
+Answer: 3.  Polymorphism and inheritance

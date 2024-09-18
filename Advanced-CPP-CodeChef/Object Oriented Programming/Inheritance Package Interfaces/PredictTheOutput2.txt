@@ -1,0 +1,55 @@
+What will be the output of the code when executed?
+
+#include <iostream>
+using namespace std;
+
+class Base {
+public:
+    virtual void print() {
+        cout << "Base::print()" << endl;
+    }
+};
+
+class Derived : public Base {
+public:
+    void print() {
+        cout << "Derived::print()" << endl;
+    }
+};
+
+int main() {
+    Base b;
+    Derived d;
+
+    Base* ptr = &d;
+
+    b.print();
+    d.print();
+    ptr->print();
+
+    return 0;
+}
+
+
+Select the correct option.
+
+1.  The code will not compile because of a syntax error.
+
+2.  Base::print()
+    Derived::print()
+    Derived::print()
+
+3.  Base::print()
+    Derived::print()
+    Base::print()
+
+4.  Derived::print()
+    Derived::print()
+    Base::print()
+
+
+Answer: 
+
+2.  Base::print()
+    Derived::print()
+    Derived::print()

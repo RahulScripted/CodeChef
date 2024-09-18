@@ -1,0 +1,34 @@
+Run the code and predict which of the following catch block executes. 
+
+
+
+#include <iostream>
+#include <stdexcept>
+using namespace std;
+
+int main() {
+    double celsius = -300.0; // Pre-defined temperature
+
+    try {
+        if (celsius < -273.15) {
+            throw out_of_range("Temperature below absolute zero is not valid.");
+        }
+
+        double fahrenheit = (celsius * 9 / 5) + 32;
+
+        cout << "Temperature in Celsius: " << celsius << endl;
+        cout << "Temperature in Fahrenheit: " << fahrenheit << endl;
+    } catch (const invalid_argument& e) {
+        cout << "Invalid Argument: " << e.what() << endl;
+    } catch (const out_of_range& e) {
+        cout << "Out of Range: " << e.what() << endl;
+    } catch (...) {
+        cout << "An unknown error occurred." << endl;
+    }
+
+    return 0;
+}
+
+
+
+Answer: Out of Range: Temperature below absolute zero is not valid.

@@ -1,0 +1,13 @@
+What is the primary benefit of dynamic method dispatch? Select the correct option.
+
+1.  Improved performance of method calls.
+
+2.  Enhanced security of method calls.
+
+3.  Flexibility in calling methods of different derived classes through a common base class interface.
+
+4.  Simplified syntax for calling methods.
+
+
+
+Answer: 3.  Flexibility in calling methods of different derived classes through a common base class interface.

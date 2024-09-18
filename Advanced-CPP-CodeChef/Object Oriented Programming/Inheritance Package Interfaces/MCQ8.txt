@@ -1,0 +1,9 @@
+Which of the following is the correct syntax for overloading the + operator as a member function in C++? Select the correct option.
+
+1.  Complex operator+(Complex other)
+2.  operator+ Complex(Complex other)
+3.  Complex operator+(Complex& other)
+4.  Complex operator+()
+
+
+Answer: 1.  Complex operator+(Complex other)

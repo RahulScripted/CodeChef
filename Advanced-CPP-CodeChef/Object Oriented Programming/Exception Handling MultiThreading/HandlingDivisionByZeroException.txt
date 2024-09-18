@@ -1,0 +1,38 @@
+Run the code and predict which of the catch block executes.
+
+
+#include <iostream>
+#include <stdexcept>
+using namespace std;
+
+int main() {
+    int numerator = 1;
+    int denominator = 0;
+
+    try {
+        // Check for division by zero
+        if (denominator == 0) {
+            throw runtime_error("Division by zero is not allowed.");
+        }
+
+        // Calculate and display the result
+        int result = numerator / denominator;
+        cout << "Result: " << result << endl;
+    }
+    catch (const runtime_error& ex) {
+        cout << "Error: " << ex.what() << endl;
+    }
+    catch (const invalid_argument& ex) {
+        cout << "Error: " << ex.what() << endl;
+    }
+    catch (...) {
+        cout << "An unexpected error occurred." << endl;
+    }
+    
+    return 0;
+}
+
+
+
+
+Answer: Division by zero is not allowed

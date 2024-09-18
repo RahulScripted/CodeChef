@@ -1,0 +1,13 @@
+What is the primary advantage of using static functions to create objects in C++? Select the correct option.
+
+1.  Static functions are more memory-efficient.
+
+2.  Static functions are faster.
+
+3.  Static functions allow for better encapsulation.
+
+4.  Static functions provide a centralized way to create objects.
+
+
+
+Answer: 4.  Static functions provide a centralized way to create objects.

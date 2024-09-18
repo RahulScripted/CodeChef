@@ -1,0 +1,13 @@
+What is the purpose of declaring a function as virtual in C++? Select the correct option.
+
+1.  To indicate that the function cannot be overridden.
+
+2.  To indicate that the function can only be called statically.
+
+3.  To enable dynamic method dispatch for that function.
+
+4.  To make the function private.
+
+
+
+Answer: 3.  To enable dynamic method dispatch for that function.
