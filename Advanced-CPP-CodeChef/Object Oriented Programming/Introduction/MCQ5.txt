@@ -1,0 +1,12 @@
+Which of the following is/are correct statements?Select one or more options.
+
+1.  Dot operator is used to access methods and attributes of a object
+
+2.  The size of object of empty class is 1.
+
+3.  Both A and B
+
+4.  None of these
+
+
+Answer: 3.  Both A and B

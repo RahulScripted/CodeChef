@@ -1,0 +1,13 @@
+What happens if you provide a class with a user-defined constructor but do not provide a default constructor, and you attempt to create an object without arguments? Select the correct option.
+
+1.  The compiler generates a default constructor automatically.
+
+2.  It's not possible to create an object without arguments.
+
+3.  It results in a compiler error.
+
+4.  The object is created with uninitialized values.
+
+
+
+Answer: 3.  It results in a compiler error.

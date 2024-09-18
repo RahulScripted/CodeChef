@@ -1,0 +1,13 @@
+What is the key difference between a constructor and a regular member function in a C++ class? Select the correct option.
+
+1.  Constructors can have a return type, while regular member functions cannot.
+
+2.  Constructors are automatically called when an object is created, while regular member functions must be called explicitly.
+
+3.  Constructors can be overloaded, while regular member functions cannot.
+
+4.  Constructors can access private class members, while regular member functions cannot.
+
+
+
+Answer: 2.  Constructors are automatically called when an object is created, while regular member functions must be called explicitly.

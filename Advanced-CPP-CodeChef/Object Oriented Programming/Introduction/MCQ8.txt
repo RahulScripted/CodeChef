@@ -1,0 +1,26 @@
+What will the output when you run the following code?
+
+#include <iostream>
+using namespace std;
+
+struct Rectangle {
+    int length;
+    int width;
+};
+
+int main() {
+    Rectangle rect;
+    cout << "Area: " << rect.length * rect.width;
+
+    return 0;
+}
+
+
+Select multiple options as applicable
+
+1.  The code will run perfectly.
+2.  Compilation error
+3.  Area: 0 or some other random value.
+
+
+Answer: 3.  Area: 0 or some other random value.

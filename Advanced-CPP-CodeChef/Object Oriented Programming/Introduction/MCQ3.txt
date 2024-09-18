@@ -1,0 +1,28 @@
+What will be the output of this code ?
+
+#include <iostream>
+using namespace std;
+
+class Employee{
+  string name;
+  int age;
+};
+
+int main() {
+  Employee a;
+  cout<<sizeof(a);
+
+  return 0;
+}
+
+
+
+Select one or more options.
+
+1.  4
+2.  24
+3.  28
+4.  32
+
+
+Answer: 3.  28 [string -> 24 & int -> 4]

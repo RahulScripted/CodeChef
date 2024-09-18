@@ -1,0 +1,59 @@
+Which of the following is a correct syntax ?
+
+Option 1
+
+class Employee{
+  int id;
+  int salary;
+};
+
+int main() {
+  Employee a;
+  a.id=12;
+  a.salary=800;
+
+  return 0;
+}
+Option 2
+
+class Employee{
+public:
+  int id;
+  int salary;
+};
+
+int main() {
+  Employee a;
+  a.id=12;
+  a.salary=800;
+
+  return 0;
+}
+Option 3
+
+class Employee{
+public:
+  int id;
+  int salary;
+};
+
+int main() {
+  Employee a;
+  a->id=12;
+  a->salary=800;
+
+  return 0;
+}
+
+
+
+Select one or more options.
+
+1.  Option 1
+2.  Option 2
+3.  Option 3
+4.  None of these
+
+
+
+Answer: 2.  Option 2

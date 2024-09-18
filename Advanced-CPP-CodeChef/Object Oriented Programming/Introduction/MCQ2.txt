@@ -1,0 +1,30 @@
+Which of the following is the correct output for the given code ?
+
+#include <iostream>
+using namespace std;
+
+class MyClass {
+public:
+    int x;
+    string s; 
+};
+
+int main() {
+    MyClass obj;
+    cout << sizeof(obj) << endl;
+
+    return 0;
+}
+
+
+
+
+Select the correct option.
+
+1.  4
+2.  28
+3.  24
+4.  32
+
+
+Answer: 2.  28

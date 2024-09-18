@@ -1,0 +1,32 @@
+Which of the following are leading to error in the given code ?
+
+#include <iostream>
+using namespace std;
+
+class Racket{
+  string name; 
+  int size;
+
+};
+
+int main() {
+  Racket obj;
+  obj->name = "cheems";
+  obj->size = 12;
+}
+
+
+
+Select the correct options.
+
+1.  name and size attributes must be public
+2.  Invalid class declaration
+3.  Dot operator(.) must be used to access attributes.
+4.  None of these
+
+
+
+Answers: 
+
+1.  name and size attributes must be public
+3.  Dot operator(.) must be used to access attributes.
