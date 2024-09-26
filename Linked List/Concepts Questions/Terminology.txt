@@ -1,0 +1,23 @@
+We learned some new terminologies in the last lesson, do you remember all of them?
+
+
+
+
+Which of the following are terminologies for Linked List?
+
+1.  Node
+
+2.  Head
+
+3.  Mid
+
+4.  Tail
+
+5.  Pointer to next node
+
+Answers: 
+
+1.  Node
+2.  Head
+4.  Tail
+5.  Pointer to next node
