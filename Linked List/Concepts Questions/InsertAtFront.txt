@@ -1,0 +1,10 @@
+What are the steps to insert an element at the front of a linked list?
+
+
+Answer:
+
+1.  Create a new Node
+
+2.  Set the next of new Node to the head of the linked list
+
+3.  Update head of linked list to new Node
