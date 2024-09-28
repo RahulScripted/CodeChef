@@ -1,0 +1,9 @@
+Delete from Front - Select one of the following.
+
+1.  Delete the first element and update the tail.
+
+2.  Update head of the list to point to 2nd element and delete the first element.
+
+
+
+Answer: 2.  Update head of the list to point to 2nd element and delete the first element.

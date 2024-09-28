@@ -1,0 +1,9 @@
+How does maintaining a tail pointer improve the complexity of adding a new element at the end?Select one of the following.
+
+1.  Maintaining more pointers help in general complexity improvements.
+
+2.  Maintaining the tail pointer helps because we don't have to traverse the complete list every time.
+
+
+
+Answer: 2.  Maintaining the tail pointer helps because we don't have to traverse the complete list every time.
