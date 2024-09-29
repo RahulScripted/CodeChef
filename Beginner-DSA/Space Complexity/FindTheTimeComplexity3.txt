@@ -1,0 +1,25 @@
+Which of the following algorithms has a space complexity of O(n)?
+
+1.  for (int i = 0; i < n; i++) {
+        cout << i;
+    }
+
+2.  int sum = 0;
+    for (int i = 0; i < 10; i++) {
+        sum += i;
+    }
+
+3.  int a[n];
+    for (int i = 0; i < n; i++) {
+        a[i] = i * i;
+    }
+
+4.  int a = 5;
+    cout << a;
+
+
+Answer:
+3.  int a[n];
+    for (int i = 0; i < n; i++) {
+        a[i] = i * i;
+    }

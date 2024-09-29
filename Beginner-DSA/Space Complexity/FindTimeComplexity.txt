@@ -1,0 +1,15 @@
+int a = 1
+int b = 2
+cout << a + b;
+What will be the space complexity of the expression given?
+
+1.  O(1)
+
+2.  O(n)
+
+3.  2*O(n)
+
+
+
+
+Answer: 1.  O(1)
