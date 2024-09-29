@@ -1,0 +1,15 @@
+What can we say about Head and Tail pointer of circular linked list?
+
+1.  It is okay to only maintain Tail.
+
+2.  Next of Head is tail
+
+3.  Next of Tail is Head
+
+
+
+Answers: 
+
+1.  It is okay to only maintain Tail.
+
+3.  Next of Tail is Head
