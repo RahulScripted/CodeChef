@@ -1,0 +1,15 @@
+Which of the following is the best example of a space-time trade-off
+
+1.  Merge sort with O(n log n) time and O(n) space
+
+2.  Binary search with O(log n) time and O(1) space
+
+3.  Dynamic programming reducing time from O(2^n) to O(n) but increasing space to O(n)
+
+4.  Linear search with O(n) time and O(n) space
+
+
+
+
+
+Answer: 3.  Dynamic programming reducing time from O(2^n) to O(n) but increasing space to O(n)

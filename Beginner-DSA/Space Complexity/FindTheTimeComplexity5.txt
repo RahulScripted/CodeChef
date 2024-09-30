@@ -1,0 +1,27 @@
+Consider the following code and answer the question.
+
+int a = 0, b = 1, c, i, num;
+cin >> num;
+cout << a << " " << b << " ";
+for(i = 2; i < num; i++) {
+   c = a + b;
+   cout << c << " ";
+   a = b;
+   b = c;
+}
+
+
+
+Find the auxiliary space needed to store the result.
+
+1.  O(n)
+
+2.  O(n*n)
+
+3.  O(n log n)
+
+4.  O(1)
+
+
+
+Answer: 4.  O(1)
