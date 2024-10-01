@@ -1,0 +1,13 @@
+Which line of code will output the string "Hi"? Which line of code will output the string "Hi"?
+
+1.  cout << Hi;
+
+2.  cou << "Hi";
+
+3.  cout << "Hi;
+
+4.  cout << "Hi";
+
+
+
+Answer: 4.  cout << "Hi";
