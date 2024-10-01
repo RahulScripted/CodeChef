@@ -1,0 +1,21 @@
+<----------- Before Rearrange ---------------->
+
+Rearrange the following code
+#include <iostream>
+using namespace std;
+int main() {
+  return 0;
+  cout << "World";
+  cout << "Hello\n";
+}
+
+<----------- After Rearrange ---------------->
+
+Rearrange the following code
+#include <iostream>
+using namespace std;
+int main() {
+  cout << "Hello\n";
+  cout << "World";
+  return 0;
+}

@@ -1,0 +1,13 @@
+What is the escape sequence we use to go to a new line in the Output? What is the escape sequence we use to go to a new line in the Output?
+
+1.  \a
+
+2.  \b
+
+3.  \n
+
+4.  \f
+
+
+
+Answer: 3.  \n
