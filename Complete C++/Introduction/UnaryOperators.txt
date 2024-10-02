@@ -1,0 +1,28 @@
+What will the following code output?
+
+#include<iostream>
+using namespace std;
+
+int main(){
+    int a = 5;
+    int b = 5;
+    a--;
+    cout << a;
+    b = ++a;
+    cout << b++;
+    cout << b;
+
+    return 0;
+}
+
+Select one of the following options.
+
+1.  555
+
+2.  456
+
+3.  466
+
+
+
+Answer: 2.  456

@@ -1,0 +1,24 @@
+What will be the output of the following code?
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a = 11, b = 5, c = 2;
+    int result = a / b * c;
+    cout << result;
+    return 0;
+}
+
+Select one of the following options.
+
+1.  1
+
+2.  4
+
+3.  4.4
+
+
+
+
+Answer: 2.  4

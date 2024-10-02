@@ -1,0 +1,25 @@
+What will the following code output?
+
+#include <iostream>
+using namespace std;
+
+int main() {
+  int a = 5;
+  
+  cout << (!(x > 5 && x < 10));
+  return 0;
+}
+
+
+Select one of the following options.
+
+1.  1
+
+2.  0 
+
+3.  Compilation error
+
+
+
+
+Answer: 3.  Compilation error
