@@ -1,0 +1,28 @@
+What will the following code output?
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a = 10;
+    float b = 3.5;
+    int result = a / b;
+    cout << result;
+
+    return 0;
+}
+
+
+Select one of the following options.
+
+1.  1
+
+2.  2
+
+3.  3
+
+
+
+
+
+Answer: 2.  2

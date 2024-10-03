@@ -1,0 +1,30 @@
+What will be the output of this code, if the user enters 5 and 9?
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+    int a, b;
+    cin >> a >> b;
+    int c = a + 2;
+    int d = c + b;
+    cout << d;
+
+    return 0;
+}
+
+
+Select one of the following options.
+
+1.  14
+
+2.  15
+
+3.  16
+
+4.  17
+
+
+
+Answer: 3.  16

@@ -1,0 +1,28 @@
+Rearrange this code so that it is correct.
+
+
+<--------------- Before Rearrange ------------------>
+
+Rearrange the following code
+#include <stdio.h>
+int main() {
+    int CostPerItem;
+    int NumberOfItems;
+    int TotalCost = CostPerItem * NumberOfItems;
+    cout << TotalCost;
+    cin >> CostPerItem >> NumberOfItems;
+    return 0;
+}
+
+
+<--------------- After Rearrange ------------------>
+
+#include <stdio.h>
+int main() {
+    int CostPerItem;
+    int NumberOfItems;
+    cin >> CostPerItem >> NumberOfItems;
+    int TotalCost = CostPerItem * NumberOfItems;
+    cout << TotalCost;
+    return 0;
+}

@@ -1,0 +1,28 @@
+What will be the output of this code, if the a = 5 and b = 9 based on user input?
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+    int a, b;
+    cin >> a >> b;
+    cout << a << b << a + b;
+
+    return 0;
+}
+
+
+Select one of the following options.
+
+1.  5 9 14
+
+2.  9 5 14
+
+3.  5914
+
+4.  9514
+
+
+
+Answer: 3.  5914

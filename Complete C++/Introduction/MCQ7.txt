@@ -1,0 +1,27 @@
+What will the following code output?
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a = 5;
+    int b = 3;
+    int result = a++ - --b + a--;
+    cout << result;
+
+    return 0;
+}
+
+
+Select one of the following options.
+
+1.  8
+
+2.  9
+
+3.  10
+
+
+
+
+Answer: 2.  9
