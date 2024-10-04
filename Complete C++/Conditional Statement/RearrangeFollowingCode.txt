@@ -1,0 +1,39 @@
+<-------------- Before Rearrange ----------------->
+
+Rearrange the following code
+#include <stdio.h>
+int main() {
+  int binary;
+  cin >> binary;
+  case 0:
+    break;
+  switch (binary) {
+    cout << "Zero";
+  case 1:
+    cout << "One";
+    break;
+  default:
+   cout << "Not valid";
+  }
+  return 0;
+}
+
+
+<-------------- After Rearrange ----------------->
+
+#include <stdio.h>
+int main() {
+  int binary;
+  cin >> binary;
+  switch (binary) {
+  case 0:
+    cout << "Zero";
+    break;
+  case 1:
+    cout << "One";
+    break;
+  default:
+   cout << "Not valid";
+  }
+  return 0;
+}

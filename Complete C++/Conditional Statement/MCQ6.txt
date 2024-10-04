@@ -1,0 +1,34 @@
+What will be the output of this code when the input is 3?
+
+#include <iostream>
+using namespace std;
+
+int main() {
+  int binary;
+  cin >> binary);
+  switch (binary) {
+  case 0:
+    cout << "Zero";
+    break;
+  case 1:
+    cout << "One";
+    break;
+  default:
+   cout << "Not valid";
+  }
+  return 0;
+}
+
+
+Select one of the following options.
+
+1.  Zero
+
+2.  One
+
+3.  Not valid
+
+
+
+
+Answer: 3.  Not valid

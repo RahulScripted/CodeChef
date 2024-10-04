@@ -1,0 +1,40 @@
+What will be the output of this code?
+
+#include <iostream>
+using namespace std;
+
+int main() {
+  int a = 0;
+  int b = -10;
+
+  if (a >= b)
+  {
+     printf("a is greater or equal to b. ");
+  }
+  if (a == 0 || b == 0){
+     cout << "At least one is 0. ";
+  }
+  if (a == 0 && b == 0){
+     cout << "Both are 0. ";
+  }
+  cout << "Program ends");
+  return 0;
+}
+
+
+
+Select one of the following options.
+
+1.  a is greater or equal to b. At least one is 0. Program ends
+
+2.  a is greater or equal to b. Program ends
+
+3.  a is greater or equal to b. Both are 0. Program ends
+
+4.  a is greater or equal to b. At least one is 0. Both are 0. Program ends
+
+
+
+
+
+Answer: 1.  a is greater or equal to b. At least one is 0. Program ends

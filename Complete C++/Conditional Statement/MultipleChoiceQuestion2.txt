@@ -1,0 +1,30 @@
+Alice has scored X marks in her test and Bob has scored Y marks in the same test. Alice is happy if she scored at least twice the marks of Bob’s score. Print "Yes" is she is happy. Select all the correct options.
+
+
+1.  if (X > 2 * Y) {
+        cout << "Yes\n";
+    }
+
+2.  if (X >= 2 * Y) {
+        cout << "Yes\n";
+    }
+
+3.  if (2 * Y <= X) {
+        cout << "Yes\n";
+    }
+
+4.  if (2 * X >= Y) {
+        cout << "Yes\n";
+    }
+
+
+
+Answer: 
+
+2.  if (X >= 2 * Y) {
+        cout << "Yes\n";
+    }
+
+3.  if (2 * Y <= X) {
+        cout << "Yes\n";
+    }
