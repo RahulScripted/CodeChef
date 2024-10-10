@@ -1,0 +1,29 @@
+What will be the output of the following code?
+
+#include <iostream>
+using namespace std;
+
+int fun(int n){
+    if (n == 5)
+       return n;
+    else return 3*fun(n+1);
+}
+ 
+int main(){
+   cout << fun(2);
+   return 0;
+}
+
+
+Select one of the following options
+
+1.  125
+
+2.  16
+
+3.  135
+
+
+
+
+Answer: 3.  135

@@ -1,0 +1,28 @@
+What will be the output of this code?
+
+#include <iostream>
+using namespace std;
+
+int main() {
+  int num[4] = {10, 4, 2, 20};
+  cout << num(2);
+  return 0;
+}
+
+
+Select one of the following options.
+
+1.  10
+
+2.  4
+
+3.  2
+
+4.  Compile Error
+
+
+
+
+
+
+Answer: 4.  Compile Error
