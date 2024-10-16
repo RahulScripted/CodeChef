@@ -1,0 +1,18 @@
+In a class of N students, a class test was held. The   ith student scored Ai marks. It is also known that the scores of all students were distinct. A student passes the test if their score is strictly greater than the passing mark. Given that exactly X students pass in the test, find the maximum value of the passing mark of the test. Suppose that after sorting, the scores are A1 > A2 > ..... > An. Then, what is the answer? What is the right answer?
+
+
+1.  A[X]
+
+2.  A[X-1]
+
+3.  A[X+1]
+
+4.  A[X]+1
+
+5.  A[X]-1
+
+
+
+
+
+Answer: 5.  A[X]-1

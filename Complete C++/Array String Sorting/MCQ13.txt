@@ -1,0 +1,14 @@
+Andrew likes meatballs very much. He has N plates of meatballs, here the ith plate contains Pi meatballs. You need to find the minimal number of plates Andrew needs to take to his trip to Las Vegas, if he wants to eat there at least M meatballs. Note that each plate is already packed, i.e. he cannot change the amount of meatballs on any plate. What is the right approach?
+
+
+1.  The answer is the smallest i, such that P1 + P2 + .. + Pi >= M
+
+2.  After sorting the array P in ascending order, the answer is the smallest i, such that P1 + P2 + .. + Pi >= M
+
+3.  After sorting the array P in descending order, the answer is the smallest i, such that P1 + P2 + .. + Pi >= M
+
+
+
+
+
+Answer: 3.  After sorting the array P in descending order, the answer is the smallest i, such that P1 + P2 + .. + Pi >= M
