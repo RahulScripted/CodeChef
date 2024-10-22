@@ -1,0 +1,30 @@
+What is wrong with the following code?
+
+#include <iostream>
+using namespace std;
+
+struct Point {
+    int x;
+    int y;
+};
+
+int main() {
+    Point p = {3, 7};
+    cout << "Point: (" << p.x << ", " << p.y << ")\n";
+    return 0;
+}
+
+
+Select multiple options as applicable
+
+1.  The code will run perfectly.
+
+2.  Compilation error. p = {3, 7}; is not the correct way to initialize a structure variable in C.
+
+3.  Compilation error. `p` variable name is too short for structures. It needs to be at least 2 character length.
+
+
+
+
+
+Answer: 1.  The code will run perfectly.

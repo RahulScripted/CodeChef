@@ -1,0 +1,19 @@
+Which of the following statements is true regarding structures in the C++ programming language? Select multiple options as applicable
+
+1.  Structures can only hold variables of the same data type.
+
+2.  Structures can be initialized at the time of declaration.
+
+3.  Structures are used to group variables of different data types under a single name.
+
+4.  Structures can only be used for mathematical calculations.
+
+
+
+
+
+Answers:
+
+2.  Structures can be initialized at the time of declaration.
+
+3.  Structures are used to group variables of different data types under a single name.
