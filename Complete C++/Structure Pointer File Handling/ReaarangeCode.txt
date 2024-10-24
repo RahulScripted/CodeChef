@@ -1,0 +1,50 @@
+Rearrange the code to get the correct output. 
+
+
+        <------- Before Rearrange -------->
+        
+#include <iostream>
+using namespace std;
+union Student {
+    int rollNumber;
+    int math;
+    int science;
+};
+int main() {
+    
+    Student s;
+    cin >> s.rollNumber;
+    cin >> s.science;
+    cout << s.rollNumber;
+    cout << s.math;
+    cin >> s.math;
+    cout << s.science;
+    return 0;
+}
+
+
+
+        <------- After Rearrange -------->
+
+#include <iostream>
+using namespace std;
+
+union Student {
+    int rollNumber;
+    int math;
+    int science;
+};
+
+int main() {
+    
+    Student s;
+
+    cin >> s.rollNumber;
+    cout << s.rollNumber;
+    cin >> s.math;
+    cout << s.math;
+    cin >> s.science;
+    cout << s.science;
+
+    return 0;
+}
