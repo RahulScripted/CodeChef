@@ -1,0 +1,15 @@
+How do you declare an array of pointers to integers with 5 elements? Select the correct option.
+
+1.  int *arr[5];
+
+2.  int arr[5]
+
+3.  int arr[5][];
+
+4.  Undefined
+
+
+
+
+
+Answer: 1.  int *arr[5];

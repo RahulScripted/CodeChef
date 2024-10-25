@@ -1,0 +1,24 @@
+What will be the output of the following program in C?
+
+int a = 20;
+*ptr = &a;
+**dptr = &ptr;
+cout << **dptr;
+
+
+
+Select the correct option.
+
+1.  address of a
+
+2.  address of ptr
+
+3.  value of a
+
+4.  value of dptr
+
+
+
+
+
+Answer: 3.  value of a

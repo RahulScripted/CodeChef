@@ -1,0 +1,15 @@
+What is the value stored in a pointer that is uninitialized? Select the correct option.
+
+1.  NULL
+
+2.  0 
+
+3.  Garbage value
+
+4.  Undefined
+
+
+
+
+
+Answer: 3.  Garbage value

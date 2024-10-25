@@ -1,0 +1,32 @@
+What is wrong in the code given here?
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int *ptr;
+
+    // Allocate memory for an integer
+    ptr = new int;
+    *ptr = 0;
+     
+    delete ptr;
+
+    cout << "Value = " << *ptr;
+    return 0;
+}
+
+
+Select the correct option.
+
+1.  Nothing - seems perfect.
+
+2.  Not freeing allocated memory can lead to memory leaks. Always free allocated memory before the program exits.
+
+3.  Accessing freed memory can result in garbage values or crashes. 
+
+
+
+
+
+Answer: 3.  Accessing freed memory can result in garbage values or crashes. 

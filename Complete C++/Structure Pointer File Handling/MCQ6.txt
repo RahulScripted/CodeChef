@@ -1,0 +1,29 @@
+What will be the output of the following code
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a = 10, b = 20, c = 30;
+    int *arr[3] = {&a, &b, &c};
+    int **ptr = arr;
+
+    cout << **(++ptr));  
+
+    return 0;
+}
+
+
+Select the correct option.
+
+1.  10
+
+2.  20
+
+3.  Compilation error
+
+
+
+
+
+Answer: 2.  20
