@@ -1,0 +1,30 @@
+Consider the code given in the statement.
+
+#include <iostream>
+using namespace std;
+
+#define int long long
+
+int main() {
+    cout << "Hello World\n";
+    return 0;
+}
+
+
+
+
+Select the correct option
+
+1.  No error, the code will output Hello World
+
+2.  Compile Error - because int is a keyword, it cannot be redefined 
+
+3.  Compile error - this will change the return type of main function to long long, which will cause error
+
+4.  Runtime error - due to long long values being stored in int data type
+
+
+
+
+
+Answer: 3.  Compile error - this will change the return type of main function to long long, which will cause error

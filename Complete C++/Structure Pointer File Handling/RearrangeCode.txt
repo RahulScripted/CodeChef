@@ -1,0 +1,21 @@
+<------- Before Rearrange ----------->
+
+#define cin inputFile
+#endif
+ifstream inputFile("input.txt");
+#define cout outputFile
+ofstream outputFile("output.txt");
+#ifndef ONLINE_JUDGE
+
+
+
+
+
+<------- After Rearrange ----------->
+
+#ifndef ONLINE_JUDGE
+ifstream inputFile("input.txt");
+ofstream outputFile("output.txt");
+#define cin inputFile
+#define cout outputFile
+#endif
